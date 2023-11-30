@@ -1,0 +1,225 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Three Phase Full Wave SCR With R Load, RL Load & RLE Load</title>
+    <style>
+      body {
+        /* background-image: linear-gradient(109.6deg, rgba(156, 252, 248, 1) 11.2%, rgba(110, 123, 251, 1) 91.1%); */
+        /* background: linear-gradient(to right, #2196f3, #f44336); */
+        /* background: linear-gradient(to right, #fc466b, #3f5efb); */
+        /* background: linear-gradient(45deg, #000046, #1cb5e0); */
+        /* background: linear-gradient(to bottom, #2980b9, #2c3e50); */
+        background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+      }
+      a {
+        display: none;
+      }
+      .btn-bar {
+        width: 700px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        position: absolute;
+      }
+      .button-82-pushable {
+        position: relative;
+        border: none;
+        background: transparent;
+        padding: 0;
+        cursor: pointer;
+        outline-offset: 4px;
+        transition: filter 250ms;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+      }
+
+      .button-82-shadow {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 12px;
+        background: hsl(0deg 10% 10% / 0.25);
+        will-change: transform;
+        transform: translateY(2px);
+        transition: transform 600ms cubic-bezier(0.3, 0.7, 0.4, 1);
+      }
+
+      .button-82-edge {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 12px;
+        /* background: linear-gradient(
+                      to left,
+                      hsl(133, 92%, 47%) 0%,
+                      hsl(133, 84%, 39%) 0%,
+                      hsl(133, 84%, 39%) 0%,
+                      hsl(133, 84%, 39%) 0%
+                    ); */
+        background-color: #ff4500;
+      }
+
+      .button-82-front {
+        display: block;
+        height: 16px;
+        position: relative;
+        padding: 12px 27px;
+        border-radius: 12px;
+        font-size: 1.1rem;
+        color: black;
+        background-image: linear-gradient(
+          45deg,
+          #ff512f 0%,
+          #f09819 51%,
+          #ff512f 100%
+        );
+        will-change: transform;
+        transform: translateY(-4px);
+        transition: transform 600ms cubic-bezier(0.3, 0.7, 0.4, 1);
+      }
+
+      @media (min-width: 768px) {
+        .button-82-front {
+          font-size: 1.25rem;
+          padding: 12px 42px;
+        }
+      }
+
+      .button-82-pushable:hover {
+        filter: brightness(110%);
+        -webkit-filter: brightness(110%);
+      }
+
+      .button-82-pushable:hover .button-82-front {
+        transform: translateY(-6px);
+        transition: transform 250ms cubic-bezier(0.3, 0.7, 0.4, 1.5);
+      }
+
+      .button-82-pushable:active .button-82-front {
+        transform: translateY(-2px);
+        transition: transform 34ms;
+      }
+
+      .button-82-pushable:hover .button-82-shadow {
+        transform: translateY(4px);
+        transition: transform 250ms cubic-bezier(0.3, 0.7, 0.4, 1.5);
+      }
+
+      .button-82-pushable:active .button-82-shadow {
+        transform: translateY(1px);
+        transition: transform 34ms;
+      }
+
+      .button-82-pushable:focus:not(:focus-visible) {
+        outline: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main">
+      <div class="title" style="display: flex; justify-content: center">
+        <h1>
+          Three Phase Full Wave Silicon Controlled Rectifier with R Load, RL Load & RLE Load
+        </h1>
+      </div>
+      <div></div>
+
+      <div
+        class="sub-heading"
+        style="
+          display: flex;
+          justify-content: center;
+          position: relative;
+          top: 100px;
+        "
+      >
+        <h1>Simulation</h1>
+      </div>
+      <div
+        class="btn-bar-div"
+        style="
+          position: relative;
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          top: 155px;
+        "
+      >
+        <div class="btn-bar">
+          <button
+            id="check1"
+            class="button-82-pushable"
+            role="button"
+            onclick="document.getElementById('rload').click()"
+          >
+            <span class="button-82-shadow"></span>
+            <span class="button-82-edge"></span>
+            <span
+              style="
+                font-size: medium;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100%;
+              "
+              class="button-82-front text fa fa-check"
+              >&nbsp;R Load</span
+            >
+          </button>
+
+          <button
+            id="check1"
+            class="button-82-pushable"
+            role="button"
+            onclick="document.getElementById('rlload').click()"
+          >
+            <span class="button-82-shadow"></span>
+            <span class="button-82-edge"></span>
+            <span
+              style="
+                font-size: medium;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100%;
+              "
+              class="button-82-front text fa fa-check"
+              >&nbsp;RL Load</span
+            >
+          </button>
+
+          <button
+            id="check1"
+            class="button-82-pushable"
+            role="button"
+            onclick="document.getElementById('rleload').click()"
+          >
+            <span class="button-82-shadow"></span>
+            <span class="button-82-edge"></span>
+            <span
+              style="
+                font-size: medium;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100%;
+              "
+              class="button-82-front text fa fa-check"
+              >&nbsp;RLE Load</span
+            >
+          </button>
+        </div>
+      </div>
+    </div>
+    <a href="3 PHASE FW R load\3 PHASE FW R load.html" id="rload"></a>
+    <a href="3 PHASE FW RL load\3 PHASE FW RL load.html" id="rlload"></a>
+    <a href="3 PHASE FW RLE load\3 PHASE FW RLE load.html" id="rleload"></a>
+  </body>
+</html>
