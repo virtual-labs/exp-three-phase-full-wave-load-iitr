@@ -1,6 +1,4 @@
-{
-    "version": 2.0,
-    "questions":[
+[
 		{
 			"question": "What is the purpose of firing angle?",
 			"answers": {
@@ -52,7 +50,7 @@
 			"correctAnswer": "a"
 		}
 	]
-}
+
 
 
 
