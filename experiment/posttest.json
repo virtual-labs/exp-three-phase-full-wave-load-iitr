@@ -1,6 +1,4 @@
-{
-    "version": 2.0,
-    "questions":[
+[
 		{
 			"question": "A three phase full controlled converter is feeding the armature of a seperately excited DC motor. The motor has to also operate in quadrant - III. Which of the following method is suitable?",
 			"answers": {
@@ -52,4 +50,3 @@
 			"correctAnswer": "b"
 		}
 	]
-}
