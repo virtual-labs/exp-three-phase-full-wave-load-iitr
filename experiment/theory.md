@@ -1,4 +1,12 @@
 
+<head>
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> 
+  
+</script>
+
+</head>
+
 <div style="font-family: 'Nunito Sans', sans-serif; font-size: 20px;text-align: justify;">
 
 ### **Introduction**
@@ -70,37 +78,37 @@ Let,<br>
 
 <center>
 
-$V_{an} = V_{m} sinwt$
+$$V_{an} = V_{m} \ sinwt$$
 
 </center>
 
 <center>
 
-$V_{bn} = V_{m} sin(wt - \frac {2\pi}{3})$
+$$V_{bn} = V_{m} \ sin \left(wt - \frac {2\pi}{3}\right)$$
 
 </center>
 
 <center>
 
-$V_{cn} = V_{m} sin(wt - \frac {4\pi}{3})$
+$$V_{cn} = V_{m} \ sin \left(wt - \frac {4\pi}{3}\right)$$
 
 </center>
 
 <center>
 
-$V_{ab} = \sqrt 3 V_{m} sin(wt + \frac {\pi}{6})$
+$$V_{ab} = \sqrt 3 V_{m} \ sin \left(wt + \frac {\pi}{6}\right)$$
 
 </center>
 
 <center>
 
-$V_{bc} = \sqrt 3 V_{m} sin(wt - \frac {\pi}{2})$
+$$V_{bc} = \sqrt 3 V_{m} \ sin \left(wt - \frac {\pi}{2}\right)$$
 
 </center>
 
 <center>
 
-$V_{ca} = \sqrt 3 V_{m} sin(wt - \frac {7\pi}{6})$
+$$V_{ca} = \sqrt 3 V_{m} \ sin \left(wt - \frac {7\pi}{6}\right)$$
 
 </center>
 
@@ -108,13 +116,13 @@ The average of output voltage and current is,<br>
 
 <center>
 
-$V_{o} = \frac {3\sqrt 3}{\pi} V_{mp} cos\alpha .......(1)$<br>
+$$V_{o} = \frac {3\sqrt 3}{\pi} V_{mp} \ cos\alpha .......(1)$$
 
 </center>
 
 <center>
 
-$I_{o} = \frac {3\sqrt 3}{\pi R} V_{mp} cos⁡\alpha .......(2)$<br>
+$$I_{o} = \frac {3\sqrt 3}{\pi R} V_{mp} \ cos⁡\alpha .......(2)$$
 
 </center>
 
@@ -122,14 +130,14 @@ $For$ $ \alpha>60^{\circ} $ <br>
 
 <center>
 
-$V_{o} = \frac {3}{\pi}\int_{\frac {\pi}{6} + \alpha}^{\frac {\pi}{2} + \alpha} \sqrt {3} V_{m} sin⁡(wt + \frac {\pi}{6}) dwt = \frac 
-{3\sqrt 3V_{m}}{\pi} cos(\frac {\pi}{3} + \alpha).......(3)$
+$$V_{o} = \frac {3}{\pi}\int_{\frac {\pi}{6} + \alpha}^{\frac {\pi}{2} + \alpha} \sqrt {3} V_{m} \  sin \bigg(wt + \frac {\pi}{6} \bigg) \ dwt = \frac 
+{3\sqrt 3V_{m}}{\pi} cos \left(\frac {\pi}{3} + \alpha \right).......(3)$$
 
 </center>
 
 <center>
 
-$I_{o} = \frac {V_{dc}}{R} = \frac {3\sqrt {3}V_{m}}{\pi R} cos(\frac {\pi}{3} + \alpha).......(4)$
+$$I_{o} = \frac {V_{dc}}{R} = \frac {3\sqrt {3}V_{m}}{\pi R} cos \left(\frac {\pi}{3} + \alpha \right).......(4)$$
 
 </center>
 
@@ -163,25 +171,25 @@ voltage, the thyristor current through T<sub>1</sub> and T<sub>4</sub>, the supp
 The average bridge output voltage is,<br>
 <center>
 
-$V_{O(dc)} = V_{dc} = \frac {6}{2\pi} \int_{\frac {\pi}{6} + \alpha}^{\frac {\pi}{2} + \alpha} V_{o} d\omega t$<br>
+$$V_{o~(dc)} = V_{dc} = \frac {6}{2\pi} \int_{\frac {\pi}{6} + \alpha}^{\frac {\pi}{2} + \alpha} v_{o} \ d\omega t$$
 
 </center>
 
 <center>
 
-$v_{o} = v_{ab} = \sqrt 3 V_{m} sin⁡(wt + \frac {\pi}{6})$<br>
+$$v_{o} = v_{ab} = \sqrt {3} V_{m} \ sin \bigg(wt + \frac{\pi}{6} \bigg)$$
 
 </center>
 
 <center>
 
-$V_{dc} = \frac {3}{\pi} \int_{\frac {\pi}{6} + \alpha}^{\frac {\pi}{2} + \alpha} \sqrt {3} V_{m} sin⁡(wt + \frac {\pi}{6}) d\omega t$<br>
+$$V_{dc} = \frac {3}{\pi} \int_{\frac {\pi}{6} + \alpha}^{\frac {\pi}{2} + \alpha} \sqrt {3} V_{m} \ sin \bigg(wt + \frac {\pi}{6} \bigg) d\omega t$$
 
 </center>
 
 <center>
 
-$V_{out} = \frac {3\sqrt {3}}{\pi} V_{mp} cos⁡ \alpha .......(5)$<br>
+$$V_{out} = \frac {3\sqrt {3}}{\pi} V_{mp} ~ cos⁡ \alpha .......(5)$$
 
 </center>
 
@@ -189,7 +197,7 @@ The maximum average dc output voltage is obtained for a delay angle $\alpha$ = 0
 
 <center>
 
-$V_{dc(max)} = V_{dm} = \frac {3\sqrt {3}}{\pi} V_{mp} .......(6)$<br>
+$$V_{dc~(max)} = V_{dm} = \frac {3\sqrt {3}}{\pi} V_{mp} .......(6)$$
 
 </center>
 
@@ -197,7 +205,7 @@ The normalized average dc output voltage is<br>
 
 <center>
 
-$V_{dcn} = V_{n} = \frac {V_{dc}}{V_{dm}} = cos\alpha .......(7)$<br>
+$$V_{dcn} = V_{n} = \frac {V_{dc}}{V_{dm}} = cos\alpha .......(7)$$
 
 </center>
 
@@ -205,25 +213,25 @@ The rms value of bridge output voltage is,<br>
 
 <center>
 
-$V_{o(rms)} = \left[\frac {6}{2\pi}\int_{\frac {\pi}{6} + \alpha}^{\frac {\pi}{2} + \alpha} V_{o}^2 dwt\right]^{1/2}$<br>
+$$V_{o~(rms)} = \left[\frac {6}{2\pi}\int_{\frac {\pi}{6} + \alpha}^{\frac {\pi}{2} + \alpha} V_{o}^2 ~ dwt\right]^{1/2}$$
 
 </center>
 
 <center>
 
-$V_{o(rms)} = \left[\frac {6}{2\pi}\int_{\frac {\pi}{6}+\alpha}^{\frac {\pi}{2}+\alpha} V_{ab}^2 dwt\right]^{1/2}$<br>
+$$V_{o~(rms)} = \left[\frac {6}{2\pi}\int_{\frac {\pi}{6}+\alpha}^{\frac {\pi}{2}+\alpha} V_{ab}^2 ~ dwt\right]^{1/2}$$
 
 </center>
 
 <center>
 
-$V_{o(rms)} = \left[\frac {3}{2\pi}\int_{\frac {\pi}{6}+\alpha}^{\frac {\pi}{2}+\alpha} 3V_{m}^2 sin⁡^2(wt + \frac {\pi}{6} dwt)\right]^{1/2}$<br>
+$$V_{o~(rms)} = \left[\frac {3}{2\pi}\int_{\frac {\pi}{6}+\alpha}^{\frac {\pi}{2}+\alpha} 3V_{m}^2 ~ sin⁡^2 \left(wt + \frac {\pi}{6} dwt \right)\right]^{1/2}$$
 
 </center>
 
 <center>
 
-$V_{o(rms)} = \left[\sqrt {3} V_{m}(\frac {1}{2} + \frac {3\sqrt {3}}{4\pi}cos⁡2\alpha)\right]^{1/2}.......(8)$<br>
+$$V_{o~(rms)} = \left[\sqrt {3} V_{m} \left(\frac {1}{2} + \frac {3\sqrt {3}}{4\pi}cos⁡2\alpha \right)\right]^{1/2}.......(8)$$
 
 </center>
 
@@ -252,13 +260,13 @@ The average bridge output voltage is,<br>
 
 <center>
 
-$V_{out} = \frac {3\sqrt {3}}{\pi} V_{mp} cos⁡\alpha .......(9)$<br>
+$$V_{out} = \frac {3\sqrt {3}}{\pi} V_{mp} ~ cos⁡\alpha .......(9)$$
 
 </center>
 
 <center>
 
-$V_{out} = E + I_{out}R .......(10)$<br>
+$$V_{out} = E + I_{out}\ R .......(10)$$
 
 </center>
 
@@ -266,7 +274,7 @@ The Power delivered to load is,<br>
 
 <center>
 
-$P = EI_{out} + I_{r}^{2}R .......(11)$<br>
+$$P = EI_{out} + I_{r}^{2}R .......(11)$$
 
 </center>
 
