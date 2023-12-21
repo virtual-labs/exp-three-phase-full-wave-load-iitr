@@ -1,0 +1,1 @@
+#### To study the three phase full wave silicon controlled rectifier with R load, RL load and RLE load.

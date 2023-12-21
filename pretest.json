@@ -1,0 +1,56 @@
+[
+		{
+			"question": "What is the purpose of firing angle?",
+			"answers": {
+				"a": "To burn device anytime of SCR",
+				"b": "To control on-off timing of SCR",
+				"c": "To control off timing of general transistor",
+				"d": "To control on timing of thyristor without controller"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "In a three phase (50 Hz) full converter, the ripple frequency in output voltage?",
+			"answers": {
+				"a": "50 Hz",
+				"b": "100 Hz",
+				"c": "150 Hz",
+				"d": "300 Hz"
+			},
+			"correctAnswer": "d"
+		},
+		{
+			"question": "Which of the following is the firing angle range of R full wave firing circuit?",
+			"answers": {
+				"a": "0° to 90°",
+				"b": "0° to 180°",
+				"c": "90° to 180°",
+				"d": "180° to 360°"
+			},
+			"correctAnswer": "a"
+		},
+		{
+			"question": "What is the formula for output voltage for 3-Φ full wave bridge rectifier for R load for α > 60°?",
+			"answers": {
+				"a": "2Vml/π [1+cos(α+60°)]",
+				"b": "3Vml/2π [1+cos(α+60°)]",
+				"c": "3Vml/π [1+cos(α+60°)]",
+				"d": "6Vml/π cosα"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "Calculate the r.m.s value of thyristor current in 3-Φ full-wave converter for the load current and α being 4 A and 12° respectively.",
+			"answers": {
+				"a": "2.3 A",
+				"b": "2.5 A",
+				"c": "2.7 A",
+				"d": "2.9 A"
+			},
+			"correctAnswer": "a"
+		}
+	]
+
+
+
+

@@ -1,0 +1,1513 @@
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW R load/js/graph.js
+    1:10  warning  'plotData' is defined but never used   no-unused-vars
+    3:5   warning  'values' is not defined                no-undef
+    4:5   warning  'values' is not defined                no-undef
+    5:5   warning  'values' is not defined                no-undef
+    6:5   warning  'values' is not defined                no-undef
+    7:5   warning  'values' is not defined                no-undef
+    8:5   warning  'values' is not defined                no-undef
+    9:5   warning  'values' is not defined                no-undef
+   10:5   warning  'values' is not defined                no-undef
+   11:5   warning  'values' is not defined                no-undef
+   12:5   warning  'values' is not defined                no-undef
+   13:5   warning  'values' is not defined                no-undef
+   14:5   warning  'values' is not defined                no-undef
+   18:5   warning  'a' is not defined                     no-undef
+   23:5   warning  'Plotly' is not defined                no-undef
+   27:14  warning  'a' is not defined                     no-undef
+   28:14  warning  'a' is not defined                     no-undef
+   37:14  warning  'a' is not defined                     no-undef
+   38:14  warning  'a' is not defined                     no-undef
+   46:14  warning  'a' is not defined                     no-undef
+   47:14  warning  'a' is not defined                     no-undef
+   58:11  warning  'values' is not defined                no-undef
+   60:11  warning  'values' is not defined                no-undef
+   62:11  warning  'values' is not defined                no-undef
+   67:19  warning  'a' is not defined                     no-undef
+   67:35  warning  'a' is not defined                     no-undef
+   68:13  warning  'a' is not defined                     no-undef
+   68:23  warning  'a' is not defined                     no-undef
+   83:5   warning  'Plotly' is not defined                no-undef
+   87:14  warning  'a' is not defined                     no-undef
+   88:14  warning  'a' is not defined                     no-undef
+  106:24  warning  'values' is not defined                no-undef
+  109:25  warning  'a' is not defined                     no-undef
+  109:43  warning  'a' is not defined                     no-undef
+  109:59  warning  'a' is not defined                     no-undef
+  122:5   warning  'Plotly' is not defined                no-undef
+  126:14  warning  'a' is not defined                     no-undef
+  127:14  warning  'a' is not defined                     no-undef
+  145:24  warning  'values' is not defined                no-undef
+  148:31  warning  'a' is not defined                     no-undef
+  148:41  warning  'a' is not defined                     no-undef
+  148:57  warning  'a' is not defined                     no-undef
+  159:10  warning  'Reset' is defined but never used      no-unused-vars
+  163:10  warning  'showtable' is defined but never used  no-unused-vars
+  165:8   warning  Unexpected constant condition          no-constant-condition
+  173:27  warning  'values' is not defined                no-undef
+  174:27  warning  'values' is not defined                no-undef
+  175:27  warning  'values' is not defined                no-undef
+  176:25  warning  'values' is not defined                no-undef
+  177:31  warning  'values' is not defined                no-undef
+  178:28  warning  'combination' is not defined           no-undef
+  179:28  warning  'combination' is not defined           no-undef
+  180:28  warning  'combination' is not defined           no-undef
+  181:28  warning  'combination' is not defined           no-undef
+  182:28  warning  'combination' is not defined           no-undef
+  183:28  warning  'combination' is not defined           no-undef
+  306:3   warning  'values' is not defined                no-undef
+  307:3   warning  'values' is not defined                no-undef
+  308:3   warning  'values' is not defined                no-undef
+  309:3   warning  'values' is not defined                no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW R load/js/popup.js
+   6:10  warning  'openPopup' is defined but never used        no-unused-vars
+  13:10  warning  'openPopupbutton' is defined but never used  no-unused-vars
+  22:10  warning  'closePopup' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW R load/js/script.js
+   128:16  warning  'jsPlumb' is not defined                        no-undef
+   133:3   warning  '$' is not defined                              no-undef
+   138:3   warning  '$' is not defined                              no-undef
+   140:11  warning  '$' is not defined                              no-undef
+   146:16  warning  Empty block statement                           no-empty
+   148:18  warning  '$' is not defined                              no-undef
+   149:13  warning  'a' is already defined                          no-redeclare
+   154:16  warning  Empty block statement                           no-empty
+   156:18  warning  '$' is not defined                              no-undef
+   157:13  warning  'a' is already defined                          no-redeclare
+   162:16  warning  Empty block statement                           no-empty
+   164:18  warning  '$' is not defined                              no-undef
+   165:13  warning  'a' is already defined                          no-redeclare
+   170:16  warning  Empty block statement                           no-empty
+   172:18  warning  '$' is not defined                              no-undef
+   173:13  warning  'a' is already defined                          no-redeclare
+   178:16  warning  Empty block statement                           no-empty
+   180:18  warning  '$' is not defined                              no-undef
+   181:13  warning  'a' is already defined                          no-redeclare
+   186:16  warning  Empty block statement                           no-empty
+   188:18  warning  '$' is not defined                              no-undef
+   189:13  warning  'a' is already defined                          no-redeclare
+   194:16  warning  Empty block statement                           no-empty
+   701:9   warning  'plotData' is not defined                       no-undef
+   705:38  warning  'event' is defined but never used               no-unused-vars
+   724:7   warning  'openPopup' is not defined                      no-undef
+   740:16  warning  'ele' is already defined                        no-redeclare
+   753:3   warning  '$' is not defined                              no-undef
+   758:3   warning  '$' is not defined                              no-undef
+   760:5   warning  '$' is not defined                              no-undef
+   761:30  warning  '$' is not defined                              no-undef
+   764:7   warning  '$' is not defined                              no-undef
+   792:7   warning  '$' is not defined                              no-undef
+   823:5   warning  '$' is not defined                              no-undef
+   823:42  warning  'event' is defined but never used               no-unused-vars
+   824:7   warning  '$' is not defined                              no-undef
+   832:3   warning  '$' is not defined                              no-undef
+   834:5   warning  '$' is not defined                              no-undef
+   835:30  warning  '$' is not defined                              no-undef
+   837:7   warning  '$' is not defined                              no-undef
+   871:7   warning  '$' is not defined                              no-undef
+   906:5   warning  '$' is not defined                              no-undef
+   906:42  warning  'event' is defined but never used               no-unused-vars
+   907:7   warning  '$' is not defined                              no-undef
+   911:3   warning  '$' is not defined                              no-undef
+   913:5   warning  '$' is not defined                              no-undef
+   914:30  warning  '$' is not defined                              no-undef
+   916:5   warning  '$' is not defined                              no-undef
+   931:5   warning  '$' is not defined                              no-undef
+   931:42  warning  'event' is defined but never used               no-unused-vars
+   932:7   warning  '$' is not defined                              no-undef
+   935:3   warning  '$' is not defined                              no-undef
+   937:5   warning  '$' is not defined                              no-undef
+   938:30  warning  '$' is not defined                              no-undef
+   940:5   warning  '$' is not defined                              no-undef
+   955:5   warning  '$' is not defined                              no-undef
+   955:42  warning  'event' is defined but never used               no-unused-vars
+   956:7   warning  '$' is not defined                              no-undef
+   959:3   warning  '$' is not defined                              no-undef
+   961:5   warning  '$' is not defined                              no-undef
+   962:30  warning  '$' is not defined                              no-undef
+   965:7   warning  '$' is not defined                              no-undef
+  1001:7   warning  '$' is not defined                              no-undef
+  1033:5   warning  '$' is not defined                              no-undef
+  1033:42  warning  'event' is defined but never used               no-unused-vars
+  1034:7   warning  '$' is not defined                              no-undef
+  1037:3   warning  '$' is not defined                              no-undef
+  1039:5   warning  '$' is not defined                              no-undef
+  1040:30  warning  '$' is not defined                              no-undef
+  1043:7   warning  '$' is not defined                              no-undef
+  1079:7   warning  '$' is not defined                              no-undef
+  1111:5   warning  '$' is not defined                              no-undef
+  1111:42  warning  'event' is defined but never used               no-unused-vars
+  1112:7   warning  '$' is not defined                              no-undef
+  1116:3   warning  '$' is not defined                              no-undef
+  1118:5   warning  '$' is not defined                              no-undef
+  1119:30  warning  '$' is not defined                              no-undef
+  1122:7   warning  '$' is not defined                              no-undef
+  1158:7   warning  '$' is not defined                              no-undef
+  1190:5   warning  '$' is not defined                              no-undef
+  1190:42  warning  'event' is defined but never used               no-unused-vars
+  1191:7   warning  '$' is not defined                              no-undef
+  1195:3   warning  '$' is not defined                              no-undef
+  1197:5   warning  '$' is not defined                              no-undef
+  1198:30  warning  '$' is not defined                              no-undef
+  1200:5   warning  '$' is not defined                              no-undef
+  1215:5   warning  '$' is not defined                              no-undef
+  1215:42  warning  'event' is defined but never used               no-unused-vars
+  1216:7   warning  '$' is not defined                              no-undef
+  1219:4   warning  '$' is not defined                              no-undef
+  1221:5   warning  '$' is not defined                              no-undef
+  1222:30  warning  '$' is not defined                              no-undef
+  1224:5   warning  '$' is not defined                              no-undef
+  1239:5   warning  '$' is not defined                              no-undef
+  1239:42  warning  'event' is defined but never used               no-unused-vars
+  1240:7   warning  '$' is not defined                              no-undef
+  1245:10  warning  'changeName' is defined but never used          no-unused-vars
+  1248:3   warning  '$' is not defined                              no-undef
+  1250:5   warning  'plotData' is not defined                       no-undef
+  1265:3   warning  '$' is not defined                              no-undef
+  1266:3   warning  '$' is not defined                              no-undef
+  1267:3   warning  '$' is not defined                              no-undef
+  1268:3   warning  '$' is not defined                              no-undef
+  1269:3   warning  '$' is not defined                              no-undef
+  1270:3   warning  '$' is not defined                              no-undef
+  1288:10  warning  'firstGateSubmitted' is defined but never used  no-unused-vars
+  1295:7   warning  'openPopup' is not defined                      no-undef
+  1302:9   warning  'openPopup' is not defined                      no-undef
+  1314:9   warning  '$' is not defined                              no-undef
+  1325:5   warning  'openPopup' is not defined                      no-undef
+  1327:5   warning  'openPopup' is not defined                      no-undef
+  1332:5   warning  'plotData' is not defined                       no-undef
+  1336:10  warning  'gateSubmitted' is defined but never used       no-unused-vars
+  1342:7   warning  'openPopup' is not defined                      no-undef
+  1352:11  warning  '$' is not defined                              no-undef
+  1360:11  warning  'openPopup' is not defined                      no-undef
+  1367:9   warning  'openPopupbutton' is not defined                no-undef
+  1378:5   warning  'openPopup' is not defined                      no-undef
+  1380:5   warning  'openPopup' is not defined                      no-undef
+  1385:5   warning  'plotData' is not defined                       no-undef
+  1388:10  warning  'acSubmited' is defined but never used          no-unused-vars
+  1396:5   warning  '$' is not defined                              no-undef
+  1404:5   warning  '$' is not defined                              no-undef
+  1405:5   warning  '$' is not defined                              no-undef
+  1406:5   warning  '$' is not defined                              no-undef
+  1410:5   warning  'plotData' is not defined                       no-undef
+  1414:10  warning  'resisSubmited' is defined but never used       no-unused-vars
+  1420:5   warning  '$' is not defined                              no-undef
+  1425:5   warning  'plotData' is not defined                       no-undef
+  1429:10  warning  'gateSubmitted2' is defined but never used      no-unused-vars
+  1435:7   warning  'openPopup' is not defined                      no-undef
+  1445:11  warning  '$' is not defined                              no-undef
+  1453:11  warning  'openPopup' is not defined                      no-undef
+  1460:9   warning  'openPopupbutton' is not defined                no-undef
+  1468:5   warning  'openPopup' is not defined                      no-undef
+  1470:5   warning  'openPopup' is not defined                      no-undef
+  1475:5   warning  'plotData' is not defined                       no-undef
+  1478:10  warning  'instchange' is defined but never used          no-unused-vars
+  1482:1   warning  '$' is not defined                              no-undef
+  1483:3   warning  '$' is not defined                              no-undef
+  1484:5   warning  '$' is not defined                              no-undef
+  1490:7   warning  'openPopup' is not defined                      no-undef
+  1496:7   warning  'openPopup' is not defined                      no-undef
+  1504:5   warning  'openPopup' is not defined                      no-undef
+  1512:10  warning  'showreadings' is defined but never used        no-unused-vars
+  1533:11  warning  'str' is not defined                            no-undef
+  1534:29  warning  'str' is not defined                            no-undef
+  1538:11  warning  'openPopup' is not defined                      no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW RL load/js/dataset.js
+  177951:7  warning  'data' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW RL load/js/graph.js
+    1:10  warning  'plotData' is defined but never used   no-unused-vars
+    3:5   warning  'values' is not defined                no-undef
+    4:5   warning  'values' is not defined                no-undef
+    5:5   warning  'values' is not defined                no-undef
+    6:5   warning  'values' is not defined                no-undef
+    7:5   warning  'values' is not defined                no-undef
+    8:5   warning  'values' is not defined                no-undef
+    9:5   warning  'values' is not defined                no-undef
+   10:5   warning  'values' is not defined                no-undef
+   11:5   warning  'values' is not defined                no-undef
+   12:5   warning  'values' is not defined                no-undef
+   13:5   warning  'values' is not defined                no-undef
+   14:5   warning  'values' is not defined                no-undef
+   15:5   warning  'values' is not defined                no-undef
+   19:5   warning  'a' is not defined                     no-undef
+   24:5   warning  'Plotly' is not defined                no-undef
+   28:14  warning  'a' is not defined                     no-undef
+   29:14  warning  'a' is not defined                     no-undef
+   38:14  warning  'a' is not defined                     no-undef
+   39:14  warning  'a' is not defined                     no-undef
+   47:14  warning  'a' is not defined                     no-undef
+   48:14  warning  'a' is not defined                     no-undef
+   59:11  warning  'values' is not defined                no-undef
+   61:11  warning  'values' is not defined                no-undef
+   63:11  warning  'values' is not defined                no-undef
+   68:19  warning  'a' is not defined                     no-undef
+   68:35  warning  'a' is not defined                     no-undef
+   69:13  warning  'a' is not defined                     no-undef
+   69:23  warning  'a' is not defined                     no-undef
+   84:5   warning  'Plotly' is not defined                no-undef
+   88:14  warning  'a' is not defined                     no-undef
+   89:14  warning  'a' is not defined                     no-undef
+  107:24  warning  'values' is not defined                no-undef
+  110:25  warning  'a' is not defined                     no-undef
+  110:41  warning  'a' is not defined                     no-undef
+  110:54  warning  'a' is not defined                     no-undef
+  110:70  warning  'a' is not defined                     no-undef
+  123:5   warning  'Plotly' is not defined                no-undef
+  127:14  warning  'a' is not defined                     no-undef
+  128:14  warning  'a' is not defined                     no-undef
+  146:24  warning  'values' is not defined                no-undef
+  149:31  warning  'a' is not defined                     no-undef
+  149:41  warning  'a' is not defined                     no-undef
+  149:57  warning  'a' is not defined                     no-undef
+  160:10  warning  'Reset' is defined but never used      no-unused-vars
+  164:10  warning  'showtable' is defined but never used  no-unused-vars
+  166:8   warning  Unexpected constant condition          no-constant-condition
+  174:27  warning  'values' is not defined                no-undef
+  175:27  warning  'values' is not defined                no-undef
+  176:27  warning  'values' is not defined                no-undef
+  177:25  warning  'values' is not defined                no-undef
+  178:31  warning  'values' is not defined                no-undef
+  179:31  warning  'values' is not defined                no-undef
+  180:28  warning  'values' is not defined                no-undef
+  209:12  warning  'data' is not defined                  no-undef
+  210:15  warning  'data' is not defined                  no-undef
+  248:3   warning  'values' is not defined                no-undef
+  249:3   warning  'values' is not defined                no-undef
+  250:3   warning  'values' is not defined                no-undef
+  251:3   warning  'values' is not defined                no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW RL load/js/popup.js
+   6:10  warning  'openPopup' is defined but never used        no-unused-vars
+  13:10  warning  'openPopupbutton' is defined but never used  no-unused-vars
+  22:10  warning  'closePopup' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW RL load/js/script.js
+   155:16  warning  'jsPlumb' is not defined                        no-undef
+   160:3   warning  '$' is not defined                              no-undef
+   165:3   warning  '$' is not defined                              no-undef
+   167:11  warning  '$' is not defined                              no-undef
+   173:16  warning  Empty block statement                           no-empty
+   175:18  warning  '$' is not defined                              no-undef
+   176:13  warning  'a' is already defined                          no-redeclare
+   181:16  warning  Empty block statement                           no-empty
+   183:18  warning  '$' is not defined                              no-undef
+   184:13  warning  'a' is already defined                          no-redeclare
+   189:16  warning  Empty block statement                           no-empty
+   191:18  warning  '$' is not defined                              no-undef
+   192:13  warning  'a' is already defined                          no-redeclare
+   197:16  warning  Empty block statement                           no-empty
+   199:18  warning  '$' is not defined                              no-undef
+   200:13  warning  'a' is already defined                          no-redeclare
+   205:16  warning  Empty block statement                           no-empty
+   207:18  warning  '$' is not defined                              no-undef
+   208:13  warning  'a' is already defined                          no-redeclare
+   213:16  warning  Empty block statement                           no-empty
+   215:18  warning  '$' is not defined                              no-undef
+   216:13  warning  'a' is already defined                          no-redeclare
+   221:16  warning  Empty block statement                           no-empty
+   223:17  warning  '$' is not defined                              no-undef
+   224:13  warning  'a' is already defined                          no-redeclare
+   229:16  warning  Empty block statement                           no-empty
+   760:7   warning  'plotData' is not defined                       no-undef
+   764:38  warning  'event' is defined but never used               no-unused-vars
+   783:7   warning  'openPopup' is not defined                      no-undef
+   799:16  warning  'ele' is already defined                        no-redeclare
+   812:3   warning  '$' is not defined                              no-undef
+   817:3   warning  '$' is not defined                              no-undef
+   819:5   warning  '$' is not defined                              no-undef
+   820:30  warning  '$' is not defined                              no-undef
+   823:7   warning  '$' is not defined                              no-undef
+   858:7   warning  '$' is not defined                              no-undef
+   896:5   warning  '$' is not defined                              no-undef
+   896:42  warning  'event' is defined but never used               no-unused-vars
+   897:7   warning  '$' is not defined                              no-undef
+   900:3   warning  '$' is not defined                              no-undef
+   902:5   warning  '$' is not defined                              no-undef
+   903:30  warning  '$' is not defined                              no-undef
+   906:7   warning  '$' is not defined                              no-undef
+   941:7   warning  '$' is not defined                              no-undef
+   976:5   warning  '$' is not defined                              no-undef
+   976:42  warning  'event' is defined but never used               no-unused-vars
+   977:7   warning  '$' is not defined                              no-undef
+   982:3   warning  '$' is not defined                              no-undef
+   984:5   warning  '$' is not defined                              no-undef
+   985:30  warning  '$' is not defined                              no-undef
+   987:7   warning  '$' is not defined                              no-undef
+  1021:7   warning  '$' is not defined                              no-undef
+  1054:5   warning  '$' is not defined                              no-undef
+  1054:42  warning  'event' is defined but never used               no-unused-vars
+  1055:7   warning  '$' is not defined                              no-undef
+  1059:3   warning  '$' is not defined                              no-undef
+  1061:5   warning  '$' is not defined                              no-undef
+  1062:30  warning  '$' is not defined                              no-undef
+  1064:5   warning  '$' is not defined                              no-undef
+  1079:5   warning  '$' is not defined                              no-undef
+  1079:42  warning  'event' is defined but never used               no-unused-vars
+  1080:7   warning  '$' is not defined                              no-undef
+  1083:3   warning  '$' is not defined                              no-undef
+  1085:5   warning  '$' is not defined                              no-undef
+  1086:30  warning  '$' is not defined                              no-undef
+  1088:5   warning  '$' is not defined                              no-undef
+  1103:5   warning  '$' is not defined                              no-undef
+  1103:42  warning  'event' is defined but never used               no-unused-vars
+  1104:7   warning  '$' is not defined                              no-undef
+  1107:3   warning  '$' is not defined                              no-undef
+  1109:5   warning  '$' is not defined                              no-undef
+  1110:30  warning  '$' is not defined                              no-undef
+  1113:7   warning  '$' is not defined                              no-undef
+  1149:7   warning  '$' is not defined                              no-undef
+  1181:5   warning  '$' is not defined                              no-undef
+  1181:42  warning  'event' is defined but never used               no-unused-vars
+  1182:7   warning  '$' is not defined                              no-undef
+  1185:3   warning  '$' is not defined                              no-undef
+  1187:5   warning  '$' is not defined                              no-undef
+  1188:30  warning  '$' is not defined                              no-undef
+  1191:7   warning  '$' is not defined                              no-undef
+  1227:7   warning  '$' is not defined                              no-undef
+  1259:5   warning  '$' is not defined                              no-undef
+  1259:42  warning  'event' is defined but never used               no-unused-vars
+  1260:7   warning  '$' is not defined                              no-undef
+  1264:3   warning  '$' is not defined                              no-undef
+  1266:5   warning  '$' is not defined                              no-undef
+  1267:30  warning  '$' is not defined                              no-undef
+  1270:7   warning  '$' is not defined                              no-undef
+  1316:7   warning  '$' is not defined                              no-undef
+  1358:5   warning  '$' is not defined                              no-undef
+  1358:42  warning  'event' is defined but never used               no-unused-vars
+  1359:7   warning  '$' is not defined                              no-undef
+  1362:3   warning  '$' is not defined                              no-undef
+  1364:5   warning  '$' is not defined                              no-undef
+  1365:30  warning  '$' is not defined                              no-undef
+  1367:5   warning  '$' is not defined                              no-undef
+  1382:5   warning  '$' is not defined                              no-undef
+  1382:42  warning  'event' is defined but never used               no-unused-vars
+  1383:7   warning  '$' is not defined                              no-undef
+  1387:3   warning  '$' is not defined                              no-undef
+  1389:5   warning  '$' is not defined                              no-undef
+  1390:30  warning  '$' is not defined                              no-undef
+  1392:5   warning  '$' is not defined                              no-undef
+  1407:5   warning  '$' is not defined                              no-undef
+  1407:42  warning  'event' is defined but never used               no-unused-vars
+  1408:7   warning  '$' is not defined                              no-undef
+  1413:10  warning  'changeName' is defined but never used          no-unused-vars
+  1416:3   warning  '$' is not defined                              no-undef
+  1418:5   warning  'plotData' is not defined                       no-undef
+  1422:3   warning  '$' is not defined                              no-undef
+  1429:3   warning  '$' is not defined                              no-undef
+  1436:3   warning  '$' is not defined                              no-undef
+  1443:3   warning  '$' is not defined                              no-undef
+  1450:3   warning  '$' is not defined                              no-undef
+  1457:3   warning  '$' is not defined                              no-undef
+  1481:10  warning  'firstGateSubmitted' is defined but never used  no-unused-vars
+  1488:7   warning  'openPopup' is not defined                      no-undef
+  1495:9   warning  'openPopup' is not defined                      no-undef
+  1509:14  warning  'i' is not defined                              no-undef
+  1510:15  warning  'i' is not defined                              no-undef
+  1511:27  warning  'i' is not defined                              no-undef
+  1513:27  warning  'i' is not defined                              no-undef
+  1519:5   warning  'openPopup' is not defined                      no-undef
+  1521:5   warning  'openPopup' is not defined                      no-undef
+  1526:5   warning  'plotData' is not defined                       no-undef
+  1530:10  warning  'gateSubmitted' is defined but never used       no-unused-vars
+  1536:7   warning  'openPopup' is not defined                      no-undef
+  1546:11  warning  '$' is not defined                              no-undef
+  1554:11  warning  'openPopup' is not defined                      no-undef
+  1561:9   warning  'openPopupbutton' is not defined                no-undef
+  1572:5   warning  'openPopup' is not defined                      no-undef
+  1574:5   warning  'openPopup' is not defined                      no-undef
+  1579:5   warning  'plotData' is not defined                       no-undef
+  1582:10  warning  'acSubmited' is defined but never used          no-unused-vars
+  1585:7   warning  'ele' is defined but never used                 no-unused-vars
+  1591:5   warning  '$' is not defined                              no-undef
+  1592:5   warning  '$' is not defined                              no-undef
+  1593:5   warning  '$' is not defined                              no-undef
+  1594:5   warning  '$' is not defined                              no-undef
+  1595:5   warning  '$' is not defined                              no-undef
+  1596:5   warning  '$' is not defined                              no-undef
+  1604:5   warning  '$' is not defined                              no-undef
+  1605:5   warning  '$' is not defined                              no-undef
+  1606:5   warning  '$' is not defined                              no-undef
+  1610:5   warning  'plotData' is not defined                       no-undef
+  1613:10  warning  'InductorSubmited' is defined but never used    no-unused-vars
+  1620:5   warning  '$' is not defined                              no-undef
+  1622:10  warning  'i' is not defined                              no-undef
+  1623:11  warning  'i' is not defined                              no-undef
+  1624:25  warning  'i' is not defined                              no-undef
+  1626:25  warning  'i' is not defined                              no-undef
+  1633:5   warning  'plotData' is not defined                       no-undef
+  1637:10  warning  'resistorSubmited' is defined but never used    no-unused-vars
+  1644:5   warning  '$' is not defined                              no-undef
+  1646:10  warning  'i' is not defined                              no-undef
+  1647:11  warning  'i' is not defined                              no-undef
+  1648:25  warning  'i' is not defined                              no-undef
+  1650:25  warning  'i' is not defined                              no-undef
+  1657:5   warning  'plotData' is not defined                       no-undef
+  1661:10  warning  'resisSubmited' is defined but never used       no-unused-vars
+  1667:5   warning  '$' is not defined                              no-undef
+  1672:5   warning  'plotData' is not defined                       no-undef
+  1676:10  warning  'gateSubmitted2' is defined but never used      no-unused-vars
+  1682:7   warning  'openPopup' is not defined                      no-undef
+  1692:11  warning  '$' is not defined                              no-undef
+  1700:11  warning  'openPopup' is not defined                      no-undef
+  1707:9   warning  'openPopupbutton' is not defined                no-undef
+  1715:5   warning  'openPopup' is not defined                      no-undef
+  1717:5   warning  'openPopup' is not defined                      no-undef
+  1722:5   warning  'plotData' is not defined                       no-undef
+  1725:10  warning  'instchange' is defined but never used          no-unused-vars
+  1729:1   warning  '$' is not defined                              no-undef
+  1730:3   warning  '$' is not defined                              no-undef
+  1731:5   warning  '$' is not defined                              no-undef
+  1737:7   warning  'openPopup' is not defined                      no-undef
+  1743:7   warning  'openPopup' is not defined                      no-undef
+  1751:5   warning  'openPopup' is not defined                      no-undef
+  1759:10  warning  'showreadings' is defined but never used        no-unused-vars
+  1781:11  warning  'str' is not defined                            no-undef
+  1782:29  warning  'str' is not defined                            no-undef
+  1786:11  warning  'openPopup' is not defined                      no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW RLE load/js/dataset.js
+  31520:7  warning  'data' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW RLE load/js/graph.js
+    1:10  warning  'plotData' is defined but never used   no-unused-vars
+    3:5   warning  'values' is not defined                no-undef
+    4:5   warning  'values' is not defined                no-undef
+    5:5   warning  'values' is not defined                no-undef
+    6:5   warning  'values' is not defined                no-undef
+    7:5   warning  'values' is not defined                no-undef
+    8:5   warning  'values' is not defined                no-undef
+    9:5   warning  'values' is not defined                no-undef
+   10:5   warning  'values' is not defined                no-undef
+   11:5   warning  'values' is not defined                no-undef
+   12:5   warning  'values' is not defined                no-undef
+   13:5   warning  'values' is not defined                no-undef
+   14:5   warning  'values' is not defined                no-undef
+   15:5   warning  'values' is not defined                no-undef
+   16:5   warning  'values' is not defined                no-undef
+   20:5   warning  'a' is not defined                     no-undef
+   21:17  warning  'a' is not defined                     no-undef
+   26:5   warning  'Plotly' is not defined                no-undef
+   30:14  warning  'a' is not defined                     no-undef
+   31:14  warning  'a' is not defined                     no-undef
+   40:14  warning  'a' is not defined                     no-undef
+   41:14  warning  'a' is not defined                     no-undef
+   49:14  warning  'a' is not defined                     no-undef
+   50:14  warning  'a' is not defined                     no-undef
+   58:14  warning  'a' is not defined                     no-undef
+   59:14  warning  'a' is not defined                     no-undef
+   70:11  warning  'values' is not defined                no-undef
+   72:11  warning  'values' is not defined                no-undef
+   74:11  warning  'values' is not defined                no-undef
+   76:11  warning  'values' is not defined                no-undef
+   81:19  warning  'a' is not defined                     no-undef
+   81:35  warning  'a' is not defined                     no-undef
+   82:13  warning  'a' is not defined                     no-undef
+   82:23  warning  'a' is not defined                     no-undef
+   97:5   warning  'Plotly' is not defined                no-undef
+  101:14  warning  'a' is not defined                     no-undef
+  102:14  warning  'a' is not defined                     no-undef
+  120:24  warning  'values' is not defined                no-undef
+  124:19  warning  'a' is not defined                     no-undef
+  124:35  warning  'a' is not defined                     no-undef
+  125:13  warning  'a' is not defined                     no-undef
+  125:29  warning  'a' is not defined                     no-undef
+  139:5   warning  'Plotly' is not defined                no-undef
+  143:14  warning  'a' is not defined                     no-undef
+  144:14  warning  'a' is not defined                     no-undef
+  162:24  warning  'values' is not defined                no-undef
+  165:31  warning  'a' is not defined                     no-undef
+  165:41  warning  'a' is not defined                     no-undef
+  165:57  warning  'a' is not defined                     no-undef
+  176:10  warning  'Reset' is defined but never used      no-unused-vars
+  180:10  warning  'showtable' is defined but never used  no-unused-vars
+  182:8   warning  Unexpected constant condition          no-constant-condition
+  190:27  warning  'values' is not defined                no-undef
+  191:27  warning  'values' is not defined                no-undef
+  192:27  warning  'values' is not defined                no-undef
+  193:25  warning  'values' is not defined                no-undef
+  194:31  warning  'values' is not defined                no-undef
+  195:31  warning  'values' is not defined                no-undef
+  196:28  warning  'values' is not defined                no-undef
+  197:23  warning  'values' is not defined                no-undef
+  228:12  warning  'data' is not defined                  no-undef
+  229:15  warning  'data' is not defined                  no-undef
+  267:3   warning  'values' is not defined                no-undef
+  268:3   warning  'values' is not defined                no-undef
+  269:3   warning  'values' is not defined                no-undef
+  270:3   warning  'values' is not defined                no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW RLE load/js/popup.js
+   6:10  warning  'openPopup' is defined but never used        no-unused-vars
+  13:10  warning  'openPopupbutton' is defined but never used  no-unused-vars
+  22:10  warning  'closePopup' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW RLE load/js/script.js
+   170:16  warning  'jsPlumb' is not defined                        no-undef
+   175:3   warning  '$' is not defined                              no-undef
+   180:3   warning  '$' is not defined                              no-undef
+   182:11  warning  '$' is not defined                              no-undef
+   188:16  warning  Empty block statement                           no-empty
+   190:18  warning  '$' is not defined                              no-undef
+   191:13  warning  'a' is already defined                          no-redeclare
+   196:16  warning  Empty block statement                           no-empty
+   198:18  warning  '$' is not defined                              no-undef
+   199:13  warning  'a' is already defined                          no-redeclare
+   204:16  warning  Empty block statement                           no-empty
+   206:18  warning  '$' is not defined                              no-undef
+   207:13  warning  'a' is already defined                          no-redeclare
+   212:16  warning  Empty block statement                           no-empty
+   214:18  warning  '$' is not defined                              no-undef
+   215:13  warning  'a' is already defined                          no-redeclare
+   220:16  warning  Empty block statement                           no-empty
+   222:18  warning  '$' is not defined                              no-undef
+   223:13  warning  'a' is already defined                          no-redeclare
+   228:16  warning  Empty block statement                           no-empty
+   230:18  warning  '$' is not defined                              no-undef
+   231:13  warning  'a' is already defined                          no-redeclare
+   236:16  warning  Empty block statement                           no-empty
+   238:18  warning  '$' is not defined                              no-undef
+   239:13  warning  'a' is already defined                          no-redeclare
+   244:16  warning  Empty block statement                           no-empty
+   246:18  warning  '$' is not defined                              no-undef
+   247:13  warning  'a' is already defined                          no-redeclare
+   252:16  warning  Empty block statement                           no-empty
+   827:7   warning  'plotData' is not defined                       no-undef
+   831:38  warning  'event' is defined but never used               no-unused-vars
+   850:7   warning  'openPopup' is not defined                      no-undef
+   866:16  warning  'ele' is already defined                        no-redeclare
+   879:3   warning  '$' is not defined                              no-undef
+   884:3   warning  '$' is not defined                              no-undef
+   886:5   warning  '$' is not defined                              no-undef
+   887:30  warning  '$' is not defined                              no-undef
+   890:7   warning  '$' is not defined                              no-undef
+   925:7   warning  '$' is not defined                              no-undef
+   963:5   warning  '$' is not defined                              no-undef
+   963:42  warning  'event' is defined but never used               no-unused-vars
+   964:7   warning  '$' is not defined                              no-undef
+   967:3   warning  '$' is not defined                              no-undef
+   969:5   warning  '$' is not defined                              no-undef
+   970:30  warning  '$' is not defined                              no-undef
+   973:7   warning  '$' is not defined                              no-undef
+  1008:7   warning  '$' is not defined                              no-undef
+  1043:5   warning  '$' is not defined                              no-undef
+  1043:42  warning  'event' is defined but never used               no-unused-vars
+  1044:7   warning  '$' is not defined                              no-undef
+  1049:3   warning  '$' is not defined                              no-undef
+  1051:5   warning  '$' is not defined                              no-undef
+  1052:30  warning  '$' is not defined                              no-undef
+  1054:7   warning  '$' is not defined                              no-undef
+  1088:7   warning  '$' is not defined                              no-undef
+  1119:5   warning  '$' is not defined                              no-undef
+  1119:42  warning  'event' is defined but never used               no-unused-vars
+  1120:7   warning  '$' is not defined                              no-undef
+  1124:3   warning  '$' is not defined                              no-undef
+  1126:5   warning  '$' is not defined                              no-undef
+  1127:30  warning  '$' is not defined                              no-undef
+  1129:5   warning  '$' is not defined                              no-undef
+  1144:5   warning  '$' is not defined                              no-undef
+  1144:42  warning  'event' is defined but never used               no-unused-vars
+  1145:7   warning  '$' is not defined                              no-undef
+  1149:3   warning  '$' is not defined                              no-undef
+  1151:5   warning  '$' is not defined                              no-undef
+  1152:30  warning  '$' is not defined                              no-undef
+  1155:7   warning  '$' is not defined                              no-undef
+  1188:7   warning  '$' is not defined                              no-undef
+  1224:5   warning  '$' is not defined                              no-undef
+  1224:42  warning  'event' is defined but never used               no-unused-vars
+  1225:7   warning  '$' is not defined                              no-undef
+  1228:3   warning  '$' is not defined                              no-undef
+  1230:5   warning  '$' is not defined                              no-undef
+  1231:30  warning  '$' is not defined                              no-undef
+  1233:5   warning  '$' is not defined                              no-undef
+  1248:5   warning  '$' is not defined                              no-undef
+  1248:42  warning  'event' is defined but never used               no-unused-vars
+  1249:7   warning  '$' is not defined                              no-undef
+  1252:3   warning  '$' is not defined                              no-undef
+  1254:5   warning  '$' is not defined                              no-undef
+  1255:30  warning  '$' is not defined                              no-undef
+  1258:7   warning  '$' is not defined                              no-undef
+  1294:7   warning  '$' is not defined                              no-undef
+  1326:5   warning  '$' is not defined                              no-undef
+  1326:42  warning  'event' is defined but never used               no-unused-vars
+  1327:7   warning  '$' is not defined                              no-undef
+  1330:3   warning  '$' is not defined                              no-undef
+  1332:5   warning  '$' is not defined                              no-undef
+  1333:30  warning  '$' is not defined                              no-undef
+  1336:7   warning  '$' is not defined                              no-undef
+  1372:7   warning  '$' is not defined                              no-undef
+  1404:5   warning  '$' is not defined                              no-undef
+  1404:42  warning  'event' is defined but never used               no-unused-vars
+  1405:7   warning  '$' is not defined                              no-undef
+  1409:3   warning  '$' is not defined                              no-undef
+  1411:5   warning  '$' is not defined                              no-undef
+  1412:30  warning  '$' is not defined                              no-undef
+  1415:7   warning  '$' is not defined                              no-undef
+  1461:7   warning  '$' is not defined                              no-undef
+  1503:5   warning  '$' is not defined                              no-undef
+  1503:42  warning  'event' is defined but never used               no-unused-vars
+  1504:7   warning  '$' is not defined                              no-undef
+  1508:3   warning  '$' is not defined                              no-undef
+  1510:5   warning  '$' is not defined                              no-undef
+  1511:30  warning  '$' is not defined                              no-undef
+  1513:5   warning  '$' is not defined                              no-undef
+  1528:5   warning  '$' is not defined                              no-undef
+  1528:42  warning  'event' is defined but never used               no-unused-vars
+  1529:7   warning  '$' is not defined                              no-undef
+  1532:3   warning  '$' is not defined                              no-undef
+  1534:5   warning  '$' is not defined                              no-undef
+  1535:30  warning  '$' is not defined                              no-undef
+  1537:5   warning  '$' is not defined                              no-undef
+  1552:5   warning  '$' is not defined                              no-undef
+  1552:42  warning  'event' is defined but never used               no-unused-vars
+  1553:7   warning  '$' is not defined                              no-undef
+  1558:10  warning  'changeName' is defined but never used          no-unused-vars
+  1561:3   warning  '$' is not defined                              no-undef
+  1563:5   warning  'plotData' is not defined                       no-undef
+  1567:3   warning  '$' is not defined                              no-undef
+  1574:3   warning  '$' is not defined                              no-undef
+  1581:3   warning  '$' is not defined                              no-undef
+  1588:3   warning  '$' is not defined                              no-undef
+  1595:3   warning  '$' is not defined                              no-undef
+  1602:3   warning  '$' is not defined                              no-undef
+  1626:10  warning  'firstGateSubmitted' is defined but never used  no-unused-vars
+  1633:7   warning  'openPopup' is not defined                      no-undef
+  1640:9   warning  'openPopup' is not defined                      no-undef
+  1654:14  warning  'i' is not defined                              no-undef
+  1655:15  warning  'i' is not defined                              no-undef
+  1656:27  warning  'i' is not defined                              no-undef
+  1658:27  warning  'i' is not defined                              no-undef
+  1664:5   warning  'openPopup' is not defined                      no-undef
+  1666:5   warning  'openPopup' is not defined                      no-undef
+  1671:5   warning  'plotData' is not defined                       no-undef
+  1675:10  warning  'gateSubmitted' is defined but never used       no-unused-vars
+  1681:7   warning  'openPopup' is not defined                      no-undef
+  1691:11  warning  '$' is not defined                              no-undef
+  1699:11  warning  'openPopup' is not defined                      no-undef
+  1706:9   warning  'openPopupbutton' is not defined                no-undef
+  1717:5   warning  'openPopup' is not defined                      no-undef
+  1719:5   warning  'openPopup' is not defined                      no-undef
+  1724:5   warning  'plotData' is not defined                       no-undef
+  1727:10  warning  'acSubmited' is defined but never used          no-unused-vars
+  1730:7   warning  'ele' is defined but never used                 no-unused-vars
+  1736:5   warning  '$' is not defined                              no-undef
+  1737:5   warning  '$' is not defined                              no-undef
+  1738:5   warning  '$' is not defined                              no-undef
+  1739:5   warning  '$' is not defined                              no-undef
+  1740:5   warning  '$' is not defined                              no-undef
+  1741:5   warning  '$' is not defined                              no-undef
+  1749:5   warning  '$' is not defined                              no-undef
+  1750:5   warning  '$' is not defined                              no-undef
+  1751:5   warning  '$' is not defined                              no-undef
+  1755:5   warning  'plotData' is not defined                       no-undef
+  1758:10  warning  'InductorSubmited' is defined but never used    no-unused-vars
+  1765:5   warning  '$' is not defined                              no-undef
+  1767:10  warning  'i' is not defined                              no-undef
+  1768:11  warning  'i' is not defined                              no-undef
+  1769:25  warning  'i' is not defined                              no-undef
+  1771:25  warning  'i' is not defined                              no-undef
+  1778:5   warning  'plotData' is not defined                       no-undef
+  1782:10  warning  'resistorSubmited' is defined but never used    no-unused-vars
+  1789:5   warning  '$' is not defined                              no-undef
+  1791:10  warning  'i' is not defined                              no-undef
+  1792:11  warning  'i' is not defined                              no-undef
+  1793:25  warning  'i' is not defined                              no-undef
+  1795:25  warning  'i' is not defined                              no-undef
+  1802:5   warning  'plotData' is not defined                       no-undef
+  1806:10  warning  'resisSubmited' is defined but never used       no-unused-vars
+  1812:5   warning  '$' is not defined                              no-undef
+  1817:5   warning  'plotData' is not defined                       no-undef
+  1821:10  warning  'DCSOURCESubmited' is defined but never used    no-unused-vars
+  1828:5   warning  '$' is not defined                              no-undef
+  1830:10  warning  'i' is not defined                              no-undef
+  1831:11  warning  'i' is not defined                              no-undef
+  1832:19  warning  'i' is not defined                              no-undef
+  1834:19  warning  'i' is not defined                              no-undef
+  1841:5   warning  'plotData' is not defined                       no-undef
+  1845:10  warning  'gateSubmitted2' is defined but never used      no-unused-vars
+  1851:7   warning  'openPopup' is not defined                      no-undef
+  1861:11  warning  '$' is not defined                              no-undef
+  1869:11  warning  'openPopup' is not defined                      no-undef
+  1876:9   warning  'openPopupbutton' is not defined                no-undef
+  1884:5   warning  'openPopup' is not defined                      no-undef
+  1886:5   warning  'openPopup' is not defined                      no-undef
+  1891:5   warning  'plotData' is not defined                       no-undef
+  1894:10  warning  'instchange' is defined but never used          no-unused-vars
+  1898:1   warning  '$' is not defined                              no-undef
+  1899:3   warning  '$' is not defined                              no-undef
+  1900:5   warning  '$' is not defined                              no-undef
+  1906:7   warning  'openPopup' is not defined                      no-undef
+  1912:7   warning  'openPopup' is not defined                      no-undef
+  1917:7   warning  '$' is not defined                              no-undef
+  1918:7   warning  '$' is not defined                              no-undef
+  1919:7   warning  '$' is not defined                              no-undef
+  1920:7   warning  '$' is not defined                              no-undef
+  1923:7   warning  '$' is not defined                              no-undef
+  1926:7   warning  '$' is not defined                              no-undef
+  1932:5   warning  'openPopup' is not defined                      no-undef
+  1940:10  warning  'showreadings' is defined but never used        no-unused-vars
+  1963:11  warning  'str' is not defined                            no-undef
+  1964:29  warning  'str' is not defined                            no-undef
+  1968:11  warning  'openPopup' is not defined                      no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW R load/js/graph.js
+    1:10  warning  'plotData' is defined but never used   no-unused-vars
+    3:5   warning  'values' is not defined                no-undef
+    4:5   warning  'values' is not defined                no-undef
+    5:5   warning  'values' is not defined                no-undef
+    6:5   warning  'values' is not defined                no-undef
+    7:5   warning  'values' is not defined                no-undef
+    8:5   warning  'values' is not defined                no-undef
+    9:5   warning  'values' is not defined                no-undef
+   10:5   warning  'values' is not defined                no-undef
+   11:5   warning  'values' is not defined                no-undef
+   12:5   warning  'values' is not defined                no-undef
+   13:5   warning  'values' is not defined                no-undef
+   14:5   warning  'values' is not defined                no-undef
+   18:5   warning  'a' is not defined                     no-undef
+   23:5   warning  'Plotly' is not defined                no-undef
+   27:14  warning  'a' is not defined                     no-undef
+   28:14  warning  'a' is not defined                     no-undef
+   37:14  warning  'a' is not defined                     no-undef
+   38:14  warning  'a' is not defined                     no-undef
+   46:14  warning  'a' is not defined                     no-undef
+   47:14  warning  'a' is not defined                     no-undef
+   58:11  warning  'values' is not defined                no-undef
+   60:11  warning  'values' is not defined                no-undef
+   62:11  warning  'values' is not defined                no-undef
+   67:19  warning  'a' is not defined                     no-undef
+   67:35  warning  'a' is not defined                     no-undef
+   68:13  warning  'a' is not defined                     no-undef
+   68:23  warning  'a' is not defined                     no-undef
+   83:5   warning  'Plotly' is not defined                no-undef
+   87:14  warning  'a' is not defined                     no-undef
+   88:14  warning  'a' is not defined                     no-undef
+  106:24  warning  'values' is not defined                no-undef
+  109:25  warning  'a' is not defined                     no-undef
+  109:43  warning  'a' is not defined                     no-undef
+  109:59  warning  'a' is not defined                     no-undef
+  122:5   warning  'Plotly' is not defined                no-undef
+  126:14  warning  'a' is not defined                     no-undef
+  127:14  warning  'a' is not defined                     no-undef
+  145:24  warning  'values' is not defined                no-undef
+  148:31  warning  'a' is not defined                     no-undef
+  148:41  warning  'a' is not defined                     no-undef
+  148:57  warning  'a' is not defined                     no-undef
+  159:10  warning  'Reset' is defined but never used      no-unused-vars
+  163:10  warning  'showtable' is defined but never used  no-unused-vars
+  165:8   warning  Unexpected constant condition          no-constant-condition
+  173:27  warning  'values' is not defined                no-undef
+  174:27  warning  'values' is not defined                no-undef
+  175:27  warning  'values' is not defined                no-undef
+  176:25  warning  'values' is not defined                no-undef
+  177:31  warning  'values' is not defined                no-undef
+  178:28  warning  'combination' is not defined           no-undef
+  179:28  warning  'combination' is not defined           no-undef
+  180:28  warning  'combination' is not defined           no-undef
+  181:28  warning  'combination' is not defined           no-undef
+  182:28  warning  'combination' is not defined           no-undef
+  183:28  warning  'combination' is not defined           no-undef
+  306:3   warning  'values' is not defined                no-undef
+  307:3   warning  'values' is not defined                no-undef
+  308:3   warning  'values' is not defined                no-undef
+  309:3   warning  'values' is not defined                no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW R load/js/popup.js
+   6:10  warning  'openPopup' is defined but never used        no-unused-vars
+  13:10  warning  'openPopupbutton' is defined but never used  no-unused-vars
+  22:10  warning  'closePopup' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW R load/js/script.js
+   128:16  warning  'jsPlumb' is not defined                        no-undef
+   133:3   warning  '$' is not defined                              no-undef
+   138:3   warning  '$' is not defined                              no-undef
+   140:11  warning  '$' is not defined                              no-undef
+   146:16  warning  Empty block statement                           no-empty
+   148:18  warning  '$' is not defined                              no-undef
+   149:13  warning  'a' is already defined                          no-redeclare
+   154:16  warning  Empty block statement                           no-empty
+   156:18  warning  '$' is not defined                              no-undef
+   157:13  warning  'a' is already defined                          no-redeclare
+   162:16  warning  Empty block statement                           no-empty
+   164:18  warning  '$' is not defined                              no-undef
+   165:13  warning  'a' is already defined                          no-redeclare
+   170:16  warning  Empty block statement                           no-empty
+   172:18  warning  '$' is not defined                              no-undef
+   173:13  warning  'a' is already defined                          no-redeclare
+   178:16  warning  Empty block statement                           no-empty
+   180:18  warning  '$' is not defined                              no-undef
+   181:13  warning  'a' is already defined                          no-redeclare
+   186:16  warning  Empty block statement                           no-empty
+   188:18  warning  '$' is not defined                              no-undef
+   189:13  warning  'a' is already defined                          no-redeclare
+   194:16  warning  Empty block statement                           no-empty
+   701:9   warning  'plotData' is not defined                       no-undef
+   705:38  warning  'event' is defined but never used               no-unused-vars
+   724:7   warning  'openPopup' is not defined                      no-undef
+   740:16  warning  'ele' is already defined                        no-redeclare
+   753:3   warning  '$' is not defined                              no-undef
+   758:3   warning  '$' is not defined                              no-undef
+   760:5   warning  '$' is not defined                              no-undef
+   761:30  warning  '$' is not defined                              no-undef
+   764:7   warning  '$' is not defined                              no-undef
+   792:7   warning  '$' is not defined                              no-undef
+   823:5   warning  '$' is not defined                              no-undef
+   823:42  warning  'event' is defined but never used               no-unused-vars
+   824:7   warning  '$' is not defined                              no-undef
+   832:3   warning  '$' is not defined                              no-undef
+   834:5   warning  '$' is not defined                              no-undef
+   835:30  warning  '$' is not defined                              no-undef
+   837:7   warning  '$' is not defined                              no-undef
+   871:7   warning  '$' is not defined                              no-undef
+   906:5   warning  '$' is not defined                              no-undef
+   906:42  warning  'event' is defined but never used               no-unused-vars
+   907:7   warning  '$' is not defined                              no-undef
+   911:3   warning  '$' is not defined                              no-undef
+   913:5   warning  '$' is not defined                              no-undef
+   914:30  warning  '$' is not defined                              no-undef
+   916:5   warning  '$' is not defined                              no-undef
+   931:5   warning  '$' is not defined                              no-undef
+   931:42  warning  'event' is defined but never used               no-unused-vars
+   932:7   warning  '$' is not defined                              no-undef
+   935:3   warning  '$' is not defined                              no-undef
+   937:5   warning  '$' is not defined                              no-undef
+   938:30  warning  '$' is not defined                              no-undef
+   940:5   warning  '$' is not defined                              no-undef
+   955:5   warning  '$' is not defined                              no-undef
+   955:42  warning  'event' is defined but never used               no-unused-vars
+   956:7   warning  '$' is not defined                              no-undef
+   959:3   warning  '$' is not defined                              no-undef
+   961:5   warning  '$' is not defined                              no-undef
+   962:30  warning  '$' is not defined                              no-undef
+   965:7   warning  '$' is not defined                              no-undef
+  1001:7   warning  '$' is not defined                              no-undef
+  1033:5   warning  '$' is not defined                              no-undef
+  1033:42  warning  'event' is defined but never used               no-unused-vars
+  1034:7   warning  '$' is not defined                              no-undef
+  1037:3   warning  '$' is not defined                              no-undef
+  1039:5   warning  '$' is not defined                              no-undef
+  1040:30  warning  '$' is not defined                              no-undef
+  1043:7   warning  '$' is not defined                              no-undef
+  1079:7   warning  '$' is not defined                              no-undef
+  1111:5   warning  '$' is not defined                              no-undef
+  1111:42  warning  'event' is defined but never used               no-unused-vars
+  1112:7   warning  '$' is not defined                              no-undef
+  1116:3   warning  '$' is not defined                              no-undef
+  1118:5   warning  '$' is not defined                              no-undef
+  1119:30  warning  '$' is not defined                              no-undef
+  1122:7   warning  '$' is not defined                              no-undef
+  1158:7   warning  '$' is not defined                              no-undef
+  1190:5   warning  '$' is not defined                              no-undef
+  1190:42  warning  'event' is defined but never used               no-unused-vars
+  1191:7   warning  '$' is not defined                              no-undef
+  1195:3   warning  '$' is not defined                              no-undef
+  1197:5   warning  '$' is not defined                              no-undef
+  1198:30  warning  '$' is not defined                              no-undef
+  1200:5   warning  '$' is not defined                              no-undef
+  1215:5   warning  '$' is not defined                              no-undef
+  1215:42  warning  'event' is defined but never used               no-unused-vars
+  1216:7   warning  '$' is not defined                              no-undef
+  1219:4   warning  '$' is not defined                              no-undef
+  1221:5   warning  '$' is not defined                              no-undef
+  1222:30  warning  '$' is not defined                              no-undef
+  1224:5   warning  '$' is not defined                              no-undef
+  1239:5   warning  '$' is not defined                              no-undef
+  1239:42  warning  'event' is defined but never used               no-unused-vars
+  1240:7   warning  '$' is not defined                              no-undef
+  1245:10  warning  'changeName' is defined but never used          no-unused-vars
+  1248:3   warning  '$' is not defined                              no-undef
+  1250:5   warning  'plotData' is not defined                       no-undef
+  1265:3   warning  '$' is not defined                              no-undef
+  1266:3   warning  '$' is not defined                              no-undef
+  1267:3   warning  '$' is not defined                              no-undef
+  1268:3   warning  '$' is not defined                              no-undef
+  1269:3   warning  '$' is not defined                              no-undef
+  1270:3   warning  '$' is not defined                              no-undef
+  1288:10  warning  'firstGateSubmitted' is defined but never used  no-unused-vars
+  1295:7   warning  'openPopup' is not defined                      no-undef
+  1302:9   warning  'openPopup' is not defined                      no-undef
+  1314:9   warning  '$' is not defined                              no-undef
+  1325:5   warning  'openPopup' is not defined                      no-undef
+  1327:5   warning  'openPopup' is not defined                      no-undef
+  1332:5   warning  'plotData' is not defined                       no-undef
+  1336:10  warning  'gateSubmitted' is defined but never used       no-unused-vars
+  1342:7   warning  'openPopup' is not defined                      no-undef
+  1352:11  warning  '$' is not defined                              no-undef
+  1360:11  warning  'openPopup' is not defined                      no-undef
+  1367:9   warning  'openPopupbutton' is not defined                no-undef
+  1378:5   warning  'openPopup' is not defined                      no-undef
+  1380:5   warning  'openPopup' is not defined                      no-undef
+  1385:5   warning  'plotData' is not defined                       no-undef
+  1388:10  warning  'acSubmited' is defined but never used          no-unused-vars
+  1396:5   warning  '$' is not defined                              no-undef
+  1404:5   warning  '$' is not defined                              no-undef
+  1405:5   warning  '$' is not defined                              no-undef
+  1406:5   warning  '$' is not defined                              no-undef
+  1410:5   warning  'plotData' is not defined                       no-undef
+  1414:10  warning  'resisSubmited' is defined but never used       no-unused-vars
+  1420:5   warning  '$' is not defined                              no-undef
+  1425:5   warning  'plotData' is not defined                       no-undef
+  1429:10  warning  'gateSubmitted2' is defined but never used      no-unused-vars
+  1435:7   warning  'openPopup' is not defined                      no-undef
+  1445:11  warning  '$' is not defined                              no-undef
+  1453:11  warning  'openPopup' is not defined                      no-undef
+  1460:9   warning  'openPopupbutton' is not defined                no-undef
+  1468:5   warning  'openPopup' is not defined                      no-undef
+  1470:5   warning  'openPopup' is not defined                      no-undef
+  1475:5   warning  'plotData' is not defined                       no-undef
+  1478:10  warning  'instchange' is defined but never used          no-unused-vars
+  1482:1   warning  '$' is not defined                              no-undef
+  1483:3   warning  '$' is not defined                              no-undef
+  1484:5   warning  '$' is not defined                              no-undef
+  1490:7   warning  'openPopup' is not defined                      no-undef
+  1496:7   warning  'openPopup' is not defined                      no-undef
+  1504:5   warning  'openPopup' is not defined                      no-undef
+  1512:10  warning  'showreadings' is defined but never used        no-unused-vars
+  1533:11  warning  'str' is not defined                            no-undef
+  1534:29  warning  'str' is not defined                            no-undef
+  1538:11  warning  'openPopup' is not defined                      no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW RL load/js/dataset.js
+  177951:7  warning  'data' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW RL load/js/graph.js
+    1:10  warning  'plotData' is defined but never used   no-unused-vars
+    3:5   warning  'values' is not defined                no-undef
+    4:5   warning  'values' is not defined                no-undef
+    5:5   warning  'values' is not defined                no-undef
+    6:5   warning  'values' is not defined                no-undef
+    7:5   warning  'values' is not defined                no-undef
+    8:5   warning  'values' is not defined                no-undef
+    9:5   warning  'values' is not defined                no-undef
+   10:5   warning  'values' is not defined                no-undef
+   11:5   warning  'values' is not defined                no-undef
+   12:5   warning  'values' is not defined                no-undef
+   13:5   warning  'values' is not defined                no-undef
+   14:5   warning  'values' is not defined                no-undef
+   15:5   warning  'values' is not defined                no-undef
+   19:5   warning  'a' is not defined                     no-undef
+   24:5   warning  'Plotly' is not defined                no-undef
+   28:14  warning  'a' is not defined                     no-undef
+   29:14  warning  'a' is not defined                     no-undef
+   38:14  warning  'a' is not defined                     no-undef
+   39:14  warning  'a' is not defined                     no-undef
+   47:14  warning  'a' is not defined                     no-undef
+   48:14  warning  'a' is not defined                     no-undef
+   59:11  warning  'values' is not defined                no-undef
+   61:11  warning  'values' is not defined                no-undef
+   63:11  warning  'values' is not defined                no-undef
+   68:19  warning  'a' is not defined                     no-undef
+   68:35  warning  'a' is not defined                     no-undef
+   69:13  warning  'a' is not defined                     no-undef
+   69:23  warning  'a' is not defined                     no-undef
+   84:5   warning  'Plotly' is not defined                no-undef
+   88:14  warning  'a' is not defined                     no-undef
+   89:14  warning  'a' is not defined                     no-undef
+  107:24  warning  'values' is not defined                no-undef
+  110:25  warning  'a' is not defined                     no-undef
+  110:41  warning  'a' is not defined                     no-undef
+  110:54  warning  'a' is not defined                     no-undef
+  110:70  warning  'a' is not defined                     no-undef
+  123:5   warning  'Plotly' is not defined                no-undef
+  127:14  warning  'a' is not defined                     no-undef
+  128:14  warning  'a' is not defined                     no-undef
+  146:24  warning  'values' is not defined                no-undef
+  149:31  warning  'a' is not defined                     no-undef
+  149:41  warning  'a' is not defined                     no-undef
+  149:57  warning  'a' is not defined                     no-undef
+  160:10  warning  'Reset' is defined but never used      no-unused-vars
+  164:10  warning  'showtable' is defined but never used  no-unused-vars
+  166:8   warning  Unexpected constant condition          no-constant-condition
+  174:27  warning  'values' is not defined                no-undef
+  175:27  warning  'values' is not defined                no-undef
+  176:27  warning  'values' is not defined                no-undef
+  177:25  warning  'values' is not defined                no-undef
+  178:31  warning  'values' is not defined                no-undef
+  179:31  warning  'values' is not defined                no-undef
+  180:28  warning  'values' is not defined                no-undef
+  209:12  warning  'data' is not defined                  no-undef
+  210:15  warning  'data' is not defined                  no-undef
+  248:3   warning  'values' is not defined                no-undef
+  249:3   warning  'values' is not defined                no-undef
+  250:3   warning  'values' is not defined                no-undef
+  251:3   warning  'values' is not defined                no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW RL load/js/popup.js
+   6:10  warning  'openPopup' is defined but never used        no-unused-vars
+  13:10  warning  'openPopupbutton' is defined but never used  no-unused-vars
+  22:10  warning  'closePopup' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW RL load/js/script.js
+   155:16  warning  'jsPlumb' is not defined                        no-undef
+   160:3   warning  '$' is not defined                              no-undef
+   165:3   warning  '$' is not defined                              no-undef
+   167:11  warning  '$' is not defined                              no-undef
+   173:16  warning  Empty block statement                           no-empty
+   175:18  warning  '$' is not defined                              no-undef
+   176:13  warning  'a' is already defined                          no-redeclare
+   181:16  warning  Empty block statement                           no-empty
+   183:18  warning  '$' is not defined                              no-undef
+   184:13  warning  'a' is already defined                          no-redeclare
+   189:16  warning  Empty block statement                           no-empty
+   191:18  warning  '$' is not defined                              no-undef
+   192:13  warning  'a' is already defined                          no-redeclare
+   197:16  warning  Empty block statement                           no-empty
+   199:18  warning  '$' is not defined                              no-undef
+   200:13  warning  'a' is already defined                          no-redeclare
+   205:16  warning  Empty block statement                           no-empty
+   207:18  warning  '$' is not defined                              no-undef
+   208:13  warning  'a' is already defined                          no-redeclare
+   213:16  warning  Empty block statement                           no-empty
+   215:18  warning  '$' is not defined                              no-undef
+   216:13  warning  'a' is already defined                          no-redeclare
+   221:16  warning  Empty block statement                           no-empty
+   223:17  warning  '$' is not defined                              no-undef
+   224:13  warning  'a' is already defined                          no-redeclare
+   229:16  warning  Empty block statement                           no-empty
+   760:7   warning  'plotData' is not defined                       no-undef
+   764:38  warning  'event' is defined but never used               no-unused-vars
+   783:7   warning  'openPopup' is not defined                      no-undef
+   799:16  warning  'ele' is already defined                        no-redeclare
+   812:3   warning  '$' is not defined                              no-undef
+   817:3   warning  '$' is not defined                              no-undef
+   819:5   warning  '$' is not defined                              no-undef
+   820:30  warning  '$' is not defined                              no-undef
+   823:7   warning  '$' is not defined                              no-undef
+   858:7   warning  '$' is not defined                              no-undef
+   896:5   warning  '$' is not defined                              no-undef
+   896:42  warning  'event' is defined but never used               no-unused-vars
+   897:7   warning  '$' is not defined                              no-undef
+   900:3   warning  '$' is not defined                              no-undef
+   902:5   warning  '$' is not defined                              no-undef
+   903:30  warning  '$' is not defined                              no-undef
+   906:7   warning  '$' is not defined                              no-undef
+   941:7   warning  '$' is not defined                              no-undef
+   976:5   warning  '$' is not defined                              no-undef
+   976:42  warning  'event' is defined but never used               no-unused-vars
+   977:7   warning  '$' is not defined                              no-undef
+   982:3   warning  '$' is not defined                              no-undef
+   984:5   warning  '$' is not defined                              no-undef
+   985:30  warning  '$' is not defined                              no-undef
+   987:7   warning  '$' is not defined                              no-undef
+  1021:7   warning  '$' is not defined                              no-undef
+  1054:5   warning  '$' is not defined                              no-undef
+  1054:42  warning  'event' is defined but never used               no-unused-vars
+  1055:7   warning  '$' is not defined                              no-undef
+  1059:3   warning  '$' is not defined                              no-undef
+  1061:5   warning  '$' is not defined                              no-undef
+  1062:30  warning  '$' is not defined                              no-undef
+  1064:5   warning  '$' is not defined                              no-undef
+  1079:5   warning  '$' is not defined                              no-undef
+  1079:42  warning  'event' is defined but never used               no-unused-vars
+  1080:7   warning  '$' is not defined                              no-undef
+  1083:3   warning  '$' is not defined                              no-undef
+  1085:5   warning  '$' is not defined                              no-undef
+  1086:30  warning  '$' is not defined                              no-undef
+  1088:5   warning  '$' is not defined                              no-undef
+  1103:5   warning  '$' is not defined                              no-undef
+  1103:42  warning  'event' is defined but never used               no-unused-vars
+  1104:7   warning  '$' is not defined                              no-undef
+  1107:3   warning  '$' is not defined                              no-undef
+  1109:5   warning  '$' is not defined                              no-undef
+  1110:30  warning  '$' is not defined                              no-undef
+  1113:7   warning  '$' is not defined                              no-undef
+  1149:7   warning  '$' is not defined                              no-undef
+  1181:5   warning  '$' is not defined                              no-undef
+  1181:42  warning  'event' is defined but never used               no-unused-vars
+  1182:7   warning  '$' is not defined                              no-undef
+  1185:3   warning  '$' is not defined                              no-undef
+  1187:5   warning  '$' is not defined                              no-undef
+  1188:30  warning  '$' is not defined                              no-undef
+  1191:7   warning  '$' is not defined                              no-undef
+  1227:7   warning  '$' is not defined                              no-undef
+  1259:5   warning  '$' is not defined                              no-undef
+  1259:42  warning  'event' is defined but never used               no-unused-vars
+  1260:7   warning  '$' is not defined                              no-undef
+  1264:3   warning  '$' is not defined                              no-undef
+  1266:5   warning  '$' is not defined                              no-undef
+  1267:30  warning  '$' is not defined                              no-undef
+  1270:7   warning  '$' is not defined                              no-undef
+  1316:7   warning  '$' is not defined                              no-undef
+  1358:5   warning  '$' is not defined                              no-undef
+  1358:42  warning  'event' is defined but never used               no-unused-vars
+  1359:7   warning  '$' is not defined                              no-undef
+  1362:3   warning  '$' is not defined                              no-undef
+  1364:5   warning  '$' is not defined                              no-undef
+  1365:30  warning  '$' is not defined                              no-undef
+  1367:5   warning  '$' is not defined                              no-undef
+  1382:5   warning  '$' is not defined                              no-undef
+  1382:42  warning  'event' is defined but never used               no-unused-vars
+  1383:7   warning  '$' is not defined                              no-undef
+  1387:3   warning  '$' is not defined                              no-undef
+  1389:5   warning  '$' is not defined                              no-undef
+  1390:30  warning  '$' is not defined                              no-undef
+  1392:5   warning  '$' is not defined                              no-undef
+  1407:5   warning  '$' is not defined                              no-undef
+  1407:42  warning  'event' is defined but never used               no-unused-vars
+  1408:7   warning  '$' is not defined                              no-undef
+  1413:10  warning  'changeName' is defined but never used          no-unused-vars
+  1416:3   warning  '$' is not defined                              no-undef
+  1418:5   warning  'plotData' is not defined                       no-undef
+  1422:3   warning  '$' is not defined                              no-undef
+  1429:3   warning  '$' is not defined                              no-undef
+  1436:3   warning  '$' is not defined                              no-undef
+  1443:3   warning  '$' is not defined                              no-undef
+  1450:3   warning  '$' is not defined                              no-undef
+  1457:3   warning  '$' is not defined                              no-undef
+  1481:10  warning  'firstGateSubmitted' is defined but never used  no-unused-vars
+  1488:7   warning  'openPopup' is not defined                      no-undef
+  1495:9   warning  'openPopup' is not defined                      no-undef
+  1509:14  warning  'i' is not defined                              no-undef
+  1510:15  warning  'i' is not defined                              no-undef
+  1511:27  warning  'i' is not defined                              no-undef
+  1513:27  warning  'i' is not defined                              no-undef
+  1519:5   warning  'openPopup' is not defined                      no-undef
+  1521:5   warning  'openPopup' is not defined                      no-undef
+  1526:5   warning  'plotData' is not defined                       no-undef
+  1530:10  warning  'gateSubmitted' is defined but never used       no-unused-vars
+  1536:7   warning  'openPopup' is not defined                      no-undef
+  1546:11  warning  '$' is not defined                              no-undef
+  1554:11  warning  'openPopup' is not defined                      no-undef
+  1561:9   warning  'openPopupbutton' is not defined                no-undef
+  1572:5   warning  'openPopup' is not defined                      no-undef
+  1574:5   warning  'openPopup' is not defined                      no-undef
+  1579:5   warning  'plotData' is not defined                       no-undef
+  1582:10  warning  'acSubmited' is defined but never used          no-unused-vars
+  1585:7   warning  'ele' is defined but never used                 no-unused-vars
+  1591:5   warning  '$' is not defined                              no-undef
+  1592:5   warning  '$' is not defined                              no-undef
+  1593:5   warning  '$' is not defined                              no-undef
+  1594:5   warning  '$' is not defined                              no-undef
+  1595:5   warning  '$' is not defined                              no-undef
+  1596:5   warning  '$' is not defined                              no-undef
+  1604:5   warning  '$' is not defined                              no-undef
+  1605:5   warning  '$' is not defined                              no-undef
+  1606:5   warning  '$' is not defined                              no-undef
+  1610:5   warning  'plotData' is not defined                       no-undef
+  1613:10  warning  'InductorSubmited' is defined but never used    no-unused-vars
+  1620:5   warning  '$' is not defined                              no-undef
+  1622:10  warning  'i' is not defined                              no-undef
+  1623:11  warning  'i' is not defined                              no-undef
+  1624:25  warning  'i' is not defined                              no-undef
+  1626:25  warning  'i' is not defined                              no-undef
+  1633:5   warning  'plotData' is not defined                       no-undef
+  1637:10  warning  'resistorSubmited' is defined but never used    no-unused-vars
+  1644:5   warning  '$' is not defined                              no-undef
+  1646:10  warning  'i' is not defined                              no-undef
+  1647:11  warning  'i' is not defined                              no-undef
+  1648:25  warning  'i' is not defined                              no-undef
+  1650:25  warning  'i' is not defined                              no-undef
+  1657:5   warning  'plotData' is not defined                       no-undef
+  1661:10  warning  'resisSubmited' is defined but never used       no-unused-vars
+  1667:5   warning  '$' is not defined                              no-undef
+  1672:5   warning  'plotData' is not defined                       no-undef
+  1676:10  warning  'gateSubmitted2' is defined but never used      no-unused-vars
+  1682:7   warning  'openPopup' is not defined                      no-undef
+  1692:11  warning  '$' is not defined                              no-undef
+  1700:11  warning  'openPopup' is not defined                      no-undef
+  1707:9   warning  'openPopupbutton' is not defined                no-undef
+  1715:5   warning  'openPopup' is not defined                      no-undef
+  1717:5   warning  'openPopup' is not defined                      no-undef
+  1722:5   warning  'plotData' is not defined                       no-undef
+  1725:10  warning  'instchange' is defined but never used          no-unused-vars
+  1729:1   warning  '$' is not defined                              no-undef
+  1730:3   warning  '$' is not defined                              no-undef
+  1731:5   warning  '$' is not defined                              no-undef
+  1737:7   warning  'openPopup' is not defined                      no-undef
+  1743:7   warning  'openPopup' is not defined                      no-undef
+  1751:5   warning  'openPopup' is not defined                      no-undef
+  1759:10  warning  'showreadings' is defined but never used        no-unused-vars
+  1781:11  warning  'str' is not defined                            no-undef
+  1782:29  warning  'str' is not defined                            no-undef
+  1786:11  warning  'openPopup' is not defined                      no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW RLE load/js/dataset.js
+  31520:7  warning  'data' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW RLE load/js/graph.js
+    1:10  warning  'plotData' is defined but never used   no-unused-vars
+    3:5   warning  'values' is not defined                no-undef
+    4:5   warning  'values' is not defined                no-undef
+    5:5   warning  'values' is not defined                no-undef
+    6:5   warning  'values' is not defined                no-undef
+    7:5   warning  'values' is not defined                no-undef
+    8:5   warning  'values' is not defined                no-undef
+    9:5   warning  'values' is not defined                no-undef
+   10:5   warning  'values' is not defined                no-undef
+   11:5   warning  'values' is not defined                no-undef
+   12:5   warning  'values' is not defined                no-undef
+   13:5   warning  'values' is not defined                no-undef
+   14:5   warning  'values' is not defined                no-undef
+   15:5   warning  'values' is not defined                no-undef
+   16:5   warning  'values' is not defined                no-undef
+   20:5   warning  'a' is not defined                     no-undef
+   21:17  warning  'a' is not defined                     no-undef
+   26:5   warning  'Plotly' is not defined                no-undef
+   30:14  warning  'a' is not defined                     no-undef
+   31:14  warning  'a' is not defined                     no-undef
+   40:14  warning  'a' is not defined                     no-undef
+   41:14  warning  'a' is not defined                     no-undef
+   49:14  warning  'a' is not defined                     no-undef
+   50:14  warning  'a' is not defined                     no-undef
+   58:14  warning  'a' is not defined                     no-undef
+   59:14  warning  'a' is not defined                     no-undef
+   70:11  warning  'values' is not defined                no-undef
+   72:11  warning  'values' is not defined                no-undef
+   74:11  warning  'values' is not defined                no-undef
+   76:11  warning  'values' is not defined                no-undef
+   81:19  warning  'a' is not defined                     no-undef
+   81:35  warning  'a' is not defined                     no-undef
+   82:13  warning  'a' is not defined                     no-undef
+   82:23  warning  'a' is not defined                     no-undef
+   97:5   warning  'Plotly' is not defined                no-undef
+  101:14  warning  'a' is not defined                     no-undef
+  102:14  warning  'a' is not defined                     no-undef
+  120:24  warning  'values' is not defined                no-undef
+  124:19  warning  'a' is not defined                     no-undef
+  124:35  warning  'a' is not defined                     no-undef
+  125:13  warning  'a' is not defined                     no-undef
+  125:29  warning  'a' is not defined                     no-undef
+  139:5   warning  'Plotly' is not defined                no-undef
+  143:14  warning  'a' is not defined                     no-undef
+  144:14  warning  'a' is not defined                     no-undef
+  162:24  warning  'values' is not defined                no-undef
+  165:31  warning  'a' is not defined                     no-undef
+  165:41  warning  'a' is not defined                     no-undef
+  165:57  warning  'a' is not defined                     no-undef
+  176:10  warning  'Reset' is defined but never used      no-unused-vars
+  180:10  warning  'showtable' is defined but never used  no-unused-vars
+  182:8   warning  Unexpected constant condition          no-constant-condition
+  190:27  warning  'values' is not defined                no-undef
+  191:27  warning  'values' is not defined                no-undef
+  192:27  warning  'values' is not defined                no-undef
+  193:25  warning  'values' is not defined                no-undef
+  194:31  warning  'values' is not defined                no-undef
+  195:31  warning  'values' is not defined                no-undef
+  196:28  warning  'values' is not defined                no-undef
+  197:23  warning  'values' is not defined                no-undef
+  228:12  warning  'data' is not defined                  no-undef
+  229:15  warning  'data' is not defined                  no-undef
+  267:3   warning  'values' is not defined                no-undef
+  268:3   warning  'values' is not defined                no-undef
+  269:3   warning  'values' is not defined                no-undef
+  270:3   warning  'values' is not defined                no-undef
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW RLE load/js/popup.js
+   6:10  warning  'openPopup' is defined but never used        no-unused-vars
+  13:10  warning  'openPopupbutton' is defined but never used  no-unused-vars
+  22:10  warning  'closePopup' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-three-phase-full-wave-load-iitr/exp-three-phase-full-wave-load-iitr/experiment/simulation/3 PHASE FW SCR/3 PHASE FW RLE load/js/script.js
+   170:16  warning  'jsPlumb' is not defined                        no-undef
+   175:3   warning  '$' is not defined                              no-undef
+   180:3   warning  '$' is not defined                              no-undef
+   182:11  warning  '$' is not defined                              no-undef
+   188:16  warning  Empty block statement                           no-empty
+   190:18  warning  '$' is not defined                              no-undef
+   191:13  warning  'a' is already defined                          no-redeclare
+   196:16  warning  Empty block statement                           no-empty
+   198:18  warning  '$' is not defined                              no-undef
+   199:13  warning  'a' is already defined                          no-redeclare
+   204:16  warning  Empty block statement                           no-empty
+   206:18  warning  '$' is not defined                              no-undef
+   207:13  warning  'a' is already defined                          no-redeclare
+   212:16  warning  Empty block statement                           no-empty
+   214:18  warning  '$' is not defined                              no-undef
+   215:13  warning  'a' is already defined                          no-redeclare
+   220:16  warning  Empty block statement                           no-empty
+   222:18  warning  '$' is not defined                              no-undef
+   223:13  warning  'a' is already defined                          no-redeclare
+   228:16  warning  Empty block statement                           no-empty
+   230:18  warning  '$' is not defined                              no-undef
+   231:13  warning  'a' is already defined                          no-redeclare
+   236:16  warning  Empty block statement                           no-empty
+   238:18  warning  '$' is not defined                              no-undef
+   239:13  warning  'a' is already defined                          no-redeclare
+   244:16  warning  Empty block statement                           no-empty
+   246:18  warning  '$' is not defined                              no-undef
+   247:13  warning  'a' is already defined                          no-redeclare
+   252:16  warning  Empty block statement                           no-empty
+   827:7   warning  'plotData' is not defined                       no-undef
+   831:38  warning  'event' is defined but never used               no-unused-vars
+   850:7   warning  'openPopup' is not defined                      no-undef
+   866:16  warning  'ele' is already defined                        no-redeclare
+   879:3   warning  '$' is not defined                              no-undef
+   884:3   warning  '$' is not defined                              no-undef
+   886:5   warning  '$' is not defined                              no-undef
+   887:30  warning  '$' is not defined                              no-undef
+   890:7   warning  '$' is not defined                              no-undef
+   925:7   warning  '$' is not defined                              no-undef
+   963:5   warning  '$' is not defined                              no-undef
+   963:42  warning  'event' is defined but never used               no-unused-vars
+   964:7   warning  '$' is not defined                              no-undef
+   967:3   warning  '$' is not defined                              no-undef
+   969:5   warning  '$' is not defined                              no-undef
+   970:30  warning  '$' is not defined                              no-undef
+   973:7   warning  '$' is not defined                              no-undef
+  1008:7   warning  '$' is not defined                              no-undef
+  1043:5   warning  '$' is not defined                              no-undef
+  1043:42  warning  'event' is defined but never used               no-unused-vars
+  1044:7   warning  '$' is not defined                              no-undef
+  1049:3   warning  '$' is not defined                              no-undef
+  1051:5   warning  '$' is not defined                              no-undef
+  1052:30  warning  '$' is not defined                              no-undef
+  1054:7   warning  '$' is not defined                              no-undef
+  1088:7   warning  '$' is not defined                              no-undef
+  1119:5   warning  '$' is not defined                              no-undef
+  1119:42  warning  'event' is defined but never used               no-unused-vars
+  1120:7   warning  '$' is not defined                              no-undef
+  1124:3   warning  '$' is not defined                              no-undef
+  1126:5   warning  '$' is not defined                              no-undef
+  1127:30  warning  '$' is not defined                              no-undef
+  1129:5   warning  '$' is not defined                              no-undef
+  1144:5   warning  '$' is not defined                              no-undef
+  1144:42  warning  'event' is defined but never used               no-unused-vars
+  1145:7   warning  '$' is not defined                              no-undef
+  1149:3   warning  '$' is not defined                              no-undef
+  1151:5   warning  '$' is not defined                              no-undef
+  1152:30  warning  '$' is not defined                              no-undef
+  1155:7   warning  '$' is not defined                              no-undef
+  1188:7   warning  '$' is not defined                              no-undef
+  1224:5   warning  '$' is not defined                              no-undef
+  1224:42  warning  'event' is defined but never used               no-unused-vars
+  1225:7   warning  '$' is not defined                              no-undef
+  1228:3   warning  '$' is not defined                              no-undef
+  1230:5   warning  '$' is not defined                              no-undef
+  1231:30  warning  '$' is not defined                              no-undef
+  1233:5   warning  '$' is not defined                              no-undef
+  1248:5   warning  '$' is not defined                              no-undef
+  1248:42  warning  'event' is defined but never used               no-unused-vars
+  1249:7   warning  '$' is not defined                              no-undef
+  1252:3   warning  '$' is not defined                              no-undef
+  1254:5   warning  '$' is not defined                              no-undef
+  1255:30  warning  '$' is not defined                              no-undef
+  1258:7   warning  '$' is not defined                              no-undef
+  1294:7   warning  '$' is not defined                              no-undef
+  1326:5   warning  '$' is not defined                              no-undef
+  1326:42  warning  'event' is defined but never used               no-unused-vars
+  1327:7   warning  '$' is not defined                              no-undef
+  1330:3   warning  '$' is not defined                              no-undef
+  1332:5   warning  '$' is not defined                              no-undef
+  1333:30  warning  '$' is not defined                              no-undef
+  1336:7   warning  '$' is not defined                              no-undef
+  1372:7   warning  '$' is not defined                              no-undef
+  1404:5   warning  '$' is not defined                              no-undef
+  1404:42  warning  'event' is defined but never used               no-unused-vars
+  1405:7   warning  '$' is not defined                              no-undef
+  1409:3   warning  '$' is not defined                              no-undef
+  1411:5   warning  '$' is not defined                              no-undef
+  1412:30  warning  '$' is not defined                              no-undef
+  1415:7   warning  '$' is not defined                              no-undef
+  1461:7   warning  '$' is not defined                              no-undef
+  1503:5   warning  '$' is not defined                              no-undef
+  1503:42  warning  'event' is defined but never used               no-unused-vars
+  1504:7   warning  '$' is not defined                              no-undef
+  1508:3   warning  '$' is not defined                              no-undef
+  1510:5   warning  '$' is not defined                              no-undef
+  1511:30  warning  '$' is not defined                              no-undef
+  1513:5   warning  '$' is not defined                              no-undef
+  1528:5   warning  '$' is not defined                              no-undef
+  1528:42  warning  'event' is defined but never used               no-unused-vars
+  1529:7   warning  '$' is not defined                              no-undef
+  1532:3   warning  '$' is not defined                              no-undef
+  1534:5   warning  '$' is not defined                              no-undef
+  1535:30  warning  '$' is not defined                              no-undef
+  1537:5   warning  '$' is not defined                              no-undef
+  1552:5   warning  '$' is not defined                              no-undef
+  1552:42  warning  'event' is defined but never used               no-unused-vars
+  1553:7   warning  '$' is not defined                              no-undef
+  1558:10  warning  'changeName' is defined but never used          no-unused-vars
+  1561:3   warning  '$' is not defined                              no-undef
+  1563:5   warning  'plotData' is not defined                       no-undef
+  1567:3   warning  '$' is not defined                              no-undef
+  1574:3   warning  '$' is not defined                              no-undef
+  1581:3   warning  '$' is not defined                              no-undef
+  1588:3   warning  '$' is not defined                              no-undef
+  1595:3   warning  '$' is not defined                              no-undef
+  1602:3   warning  '$' is not defined                              no-undef
+  1626:10  warning  'firstGateSubmitted' is defined but never used  no-unused-vars
+  1633:7   warning  'openPopup' is not defined                      no-undef
+  1640:9   warning  'openPopup' is not defined                      no-undef
+  1654:14  warning  'i' is not defined                              no-undef
+  1655:15  warning  'i' is not defined                              no-undef
+  1656:27  warning  'i' is not defined                              no-undef
+  1658:27  warning  'i' is not defined                              no-undef
+  1664:5   warning  'openPopup' is not defined                      no-undef
+  1666:5   warning  'openPopup' is not defined                      no-undef
+  1671:5   warning  'plotData' is not defined                       no-undef
+  1675:10  warning  'gateSubmitted' is defined but never used       no-unused-vars
+  1681:7   warning  'openPopup' is not defined                      no-undef
+  1691:11  warning  '$' is not defined                              no-undef
+  1699:11  warning  'openPopup' is not defined                      no-undef
+  1706:9   warning  'openPopupbutton' is not defined                no-undef
+  1717:5   warning  'openPopup' is not defined                      no-undef
+  1719:5   warning  'openPopup' is not defined                      no-undef
+  1724:5   warning  'plotData' is not defined                       no-undef
+  1727:10  warning  'acSubmited' is defined but never used          no-unused-vars
+  1730:7   warning  'ele' is defined but never used                 no-unused-vars
+  1736:5   warning  '$' is not defined                              no-undef
+  1737:5   warning  '$' is not defined                              no-undef
+  1738:5   warning  '$' is not defined                              no-undef
+  1739:5   warning  '$' is not defined                              no-undef
+  1740:5   warning  '$' is not defined                              no-undef
+  1741:5   warning  '$' is not defined                              no-undef
+  1749:5   warning  '$' is not defined                              no-undef
+  1750:5   warning  '$' is not defined                              no-undef
+  1751:5   warning  '$' is not defined                              no-undef
+  1755:5   warning  'plotData' is not defined                       no-undef
+  1758:10  warning  'InductorSubmited' is defined but never used    no-unused-vars
+  1765:5   warning  '$' is not defined                              no-undef
+  1767:10  warning  'i' is not defined                              no-undef
+  1768:11  warning  'i' is not defined                              no-undef
+  1769:25  warning  'i' is not defined                              no-undef
+  1771:25  warning  'i' is not defined                              no-undef
+  1778:5   warning  'plotData' is not defined                       no-undef
+  1782:10  warning  'resistorSubmited' is defined but never used    no-unused-vars
+  1789:5   warning  '$' is not defined                              no-undef
+  1791:10  warning  'i' is not defined                              no-undef
+  1792:11  warning  'i' is not defined                              no-undef
+  1793:25  warning  'i' is not defined                              no-undef
+  1795:25  warning  'i' is not defined                              no-undef
+  1802:5   warning  'plotData' is not defined                       no-undef
+  1806:10  warning  'resisSubmited' is defined but never used       no-unused-vars
+  1812:5   warning  '$' is not defined                              no-undef
+  1817:5   warning  'plotData' is not defined                       no-undef
+  1821:10  warning  'DCSOURCESubmited' is defined but never used    no-unused-vars
+  1828:5   warning  '$' is not defined                              no-undef
+  1830:10  warning  'i' is not defined                              no-undef
+  1831:11  warning  'i' is not defined                              no-undef
+  1832:19  warning  'i' is not defined                              no-undef
+  1834:19  warning  'i' is not defined                              no-undef
+  1841:5   warning  'plotData' is not defined                       no-undef
+  1845:10  warning  'gateSubmitted2' is defined but never used      no-unused-vars
+  1851:7   warning  'openPopup' is not defined                      no-undef
+  1861:11  warning  '$' is not defined                              no-undef
+  1869:11  warning  'openPopup' is not defined                      no-undef
+  1876:9   warning  'openPopupbutton' is not defined                no-undef
+  1884:5   warning  'openPopup' is not defined                      no-undef
+  1886:5   warning  'openPopup' is not defined                      no-undef
+  1891:5   warning  'plotData' is not defined                       no-undef
+  1894:10  warning  'instchange' is defined but never used          no-unused-vars
+  1898:1   warning  '$' is not defined                              no-undef
+  1899:3   warning  '$' is not defined                              no-undef
+  1900:5   warning  '$' is not defined                              no-undef
+  1906:7   warning  'openPopup' is not defined                      no-undef
+  1912:7   warning  'openPopup' is not defined                      no-undef
+  1917:7   warning  '$' is not defined                              no-undef
+  1918:7   warning  '$' is not defined                              no-undef
+  1919:7   warning  '$' is not defined                              no-undef
+  1920:7   warning  '$' is not defined                              no-undef
+  1923:7   warning  '$' is not defined                              no-undef
+  1926:7   warning  '$' is not defined                              no-undef
+  1932:5   warning  'openPopup' is not defined                      no-undef
+  1940:10  warning  'showreadings' is defined but never used        no-unused-vars
+  1963:11  warning  'str' is not defined                            no-undef
+  1964:29  warning  'str' is not defined                            no-undef
+  1968:11  warning  'openPopup' is not defined                      no-undef
+
+✖ 1466 problems (0 errors, 1466 warnings)
+

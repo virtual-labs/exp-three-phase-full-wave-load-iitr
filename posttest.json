@@ -1,0 +1,52 @@
+[
+		{
+			"question": "A three phase full controlled converter is feeding the armature of a seperately excited DC motor. The motor has to also operate in quadrant - III. Which of the following method is suitable?",
+			"answers": {
+				"a": "By connecting a free wheeling diode across the armature in addition to adjusting the triggering angle α",
+				"b": "By adjusting the triggering angle α only",
+				"c": "By adjusting the triggering angle α followed by armature connection reversal",
+				"d": "By operating the triggering angle α > π/2 rad"
+			},
+			"correctAnswer": "d"
+		},
+		{
+			"question": "For what firing angle does a 3-Φ Full wave bridge rectifier act as a natural commutated inverter?",
+			"answers": {
+				"a": "α>90°",
+				"b": "α<90°",
+				"c": "α>180°",
+				"d": "α<180°"
+			},
+			"correctAnswer": "a"
+		},
+		{
+			"question": "Three phase full wave converter is supplying purely resistive load at 300 V d.c. for 0° firing angle. What would be the output voltage for 90° firing angle?",
+			"answers": {
+				"a": "0 V",
+				"b": "40 V",
+				"c": "50 V",
+				"d": "100 V"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "What is the average output voltage of three phase full wave controlled rectifier with α<π/3?",
+			"answers": {
+				"a": "3√3/π Vmp cos⁡α",
+				"b": "√3/π Vmp cos⁡α",
+				"c": "3√3/π Vmp cos2⁡α",
+				"d": "√3/π Vmp cos2⁡α"
+			},
+			"correctAnswer": "a"
+		},
+		{
+			"question": "A three-phase controlled rectifier has an input voltage which is 480 V rms at 60 Hz. The load is modeled as a series resistance and inductance with R = 10 Ω and L = 50 mH. Determine the delay angle required to produce an average current of 50 A in the load?",
+			"answers": {
+				"a": "50°",
+				"b": "39.5°",
+				"c": "27.25°",
+				"d": "20°"
+			},
+			"correctAnswer": "b"
+		}
+	]
